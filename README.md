@@ -217,6 +217,21 @@ Para testar apenas fluxo interno:
 SPRING_PROFILES_ACTIVE=local docker compose up
 ```
 
+Simular mensagem inicial
+
+curl -X POST http://localhost:8080/webhook/whatsapp \
+  -H "Content-Type: application/x-www-form-urlencoded" \
+  -d "From=whatsapp:+5511999999999" \
+  -d "Body=Olá"
+
+
+Simular escolha do menu
+
+curl -X POST http://localhost:8080/webhook/whatsapp \
+  -H "Content-Type: application/x-www-form-urlencoded" \
+  -d "From=whatsapp:+5511999999999" \
+  -d "Body=1"
+
 Nesse modo:
 
 * Usa MockPharmacyServiceAdapter
