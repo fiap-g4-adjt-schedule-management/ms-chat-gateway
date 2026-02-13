@@ -250,30 +250,10 @@ Nesse modo:
 6. Ao final do fluxo:
 
    * Usuário envia feedback (Sim/Não)
-   * Sistema envia PUT para API com UUID da pesquisa
+
 
 ---
 
-# 🔄 Feedback Flow
-
-Quando a API retorna o UUID da pesquisa:
-
-```
-GET /medication/{id}/pharmacys
-```
-
-O UUID é armazenado na sessão.
-
-Ao final do fluxo:
-
-```
-PUT /feedback/{UUID}
-{
-  "flagFeedback": true | false
-}
-```
-
----
 
 # 🧼 Encerramento da Conversa
 
