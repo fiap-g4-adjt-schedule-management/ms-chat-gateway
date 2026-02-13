@@ -1,4 +1,4 @@
-package br.com.fiap.mschatgateway.domain.model;
+package br.com.fiap.mschatgateway.domain.model.conversation;
 
 public enum ChatStep {
 
@@ -16,6 +16,7 @@ public enum ChatStep {
     SELECT_MEDICATION,
 
     SHOW_RESULT,
+    ASK_VIEW_OTHER_PHARMACIES,
     ASK_FEEDBACK,
     ASK_END,
 

@@ -2,3009 +2,1881 @@
   {
     "state": "AC",
     "city": "BRASILEIA",
-    "neighborhood": "BOTEQUINS",
-    "address": "DOUTOR MANOEL MARINHO MONTE",
-    "CNPJ": 6626253045686,
-    "pharmacyName": "EMPREENDIMENTOS PAGUE MENOS S/A"
+    "neighborhood": "BOTEQUINS"
   },
   {
     "state": "AC",
     "city": "BRASILEIA",
-    "neighborhood": "TRES BOTEQUINS",
-    "address": "MANOEL MARINHO MONTE",
-    "CNPJ": 4521258000780,
-    "pharmacyName": "J CRUZ LTDA"
+    "neighborhood": "TRES BOTEQUINS"
   },
   {
     "state": "AC",
     "city": "CRUZEIRO DO SUL",
-    "neighborhood": "BAIXA",
-    "address": "CORONEL MANCIO LIMA",
-    "CNPJ": 6626253052208,
-    "pharmacyName": "EMPREENDIMENTOS PAGUE MENOS S/A"
+    "neighborhood": "BAIXA"
   },
   {
     "state": "AC",
     "city": "CRUZEIRO DO SUL",
-    "neighborhood": "CENTRO",
-    "address": "CEL. MANCIO LIMA",
-    "CNPJ": 6011700000168,
-    "pharmacyName": "H. R. LIMA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AC",
     "city": "EPITACIOLANDIA",
-    "neighborhood": "CENTRO",
-    "address": "SANTOS DUMONT",
-    "CNPJ": 4521258002804,
-    "pharmacyName": "J CRUZ LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AC",
     "city": "EPITACIOLANDIA",
-    "neighborhood": "CENTRO",
-    "address": "SANTOS DUMONT",
-    "CNPJ": 14351621000124,
-    "pharmacyName": "MARIA DA SILVA FREITAS"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AC",
     "city": "MANCIO LIMA",
-    "neighborhood": "CENTRO",
-    "address": "AV JAPIIM, N°1036",
-    "CNPJ": 18731379000175,
-    "pharmacyName": "R. LUCAS DA SILVA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AC",
     "city": "PLACIDO DE CASTRO",
-    "neighborhood": "CENTRO",
-    "address": "EPITACIO PESSOA",
-    "CNPJ": 4509006000140,
-    "pharmacyName": "SERGIO CARLOS VIEIRA - EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AC",
     "city": "PORTO ACRE",
-    "neighborhood": "VILA DO INCRA",
-    "address": "JOAO BARBUDO",
-    "CNPJ": 41829764000171,
-    "pharmacyName": "VIDA E SAUDE COMERCIO & DISTRIBUICAO LTDA"
+    "neighborhood": "VILA DO INCRA"
   },
   {
     "state": "AC",
     "city": "RIO BRANCO",
-    "neighborhood": "AEROPORTO VELHO",
-    "address": "EST  DA SOBRAL 326",
-    "CNPJ": 14365282000135,
-    "pharmacyName": "ALMEIDA E ALENCAR LTDA - ME"
+    "neighborhood": "AEROPORTO VELHO"
   },
   {
     "state": "AC",
     "city": "RIO BRANCO",
-    "neighborhood": "ESTACAO EXPERIMENTAL",
-    "address": "NACOES UNIDAS",
-    "CNPJ": 5252089000105,
-    "pharmacyName": "CRUZ & OLIVEIRA LTDA"
+    "neighborhood": "ESTACAO EXPERIMENTAL"
   },
   {
     "state": "AC",
     "city": "RIO BRANCO",
-    "neighborhood": "ESTACAO EXPERIMENTAL",
-    "address": "AVENIDA NACOES UNIDAS, 2890",
-    "CNPJ": 6626253040102,
-    "pharmacyName": "EMPREENDIMENTOS PAGUE MENOS S/A"
+    "neighborhood": "ESTACAO EXPERIMENTAL"
   },
   {
     "state": "AC",
     "city": "RIO BRANCO",
-    "neighborhood": "CENTRO",
-    "address": "BRASIL",
-    "CNPJ": 6626253031464,
-    "pharmacyName": "EMPREENDIMENTOS PAGUE MENOS S/A"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AC",
     "city": "RIO BRANCO",
-    "neighborhood": "BOSQUE",
-    "address": "QUINTINO BOCAIUVA",
-    "CNPJ": 6626253048863,
-    "pharmacyName": "EMPREENDIMENTOS PAGUE MENOS S/A"
+    "neighborhood": "BOSQUE"
   },
   {
     "state": "AC",
     "city": "RIO BRANCO",
-    "neighborhood": "CERAMICA",
-    "address": "CEARA",
-    "CNPJ": 4521258000194,
-    "pharmacyName": "J CRUZ LTDA"
+    "neighborhood": "CERAMICA"
   },
   {
     "state": "AC",
     "city": "RODRIGUES ALVES",
-    "neighborhood": "CENTRO",
-    "address": "PRESIDENTE JUSCELINO",
-    "CNPJ": 47928373000190,
-    "pharmacyName": "DROGARIA MINHA SAUDE LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AC",
     "city": "SENA MADUREIRA",
-    "neighborhood": "CENTRO",
-    "address": "AVENIDA BRASIL, N° 151, SALA 03",
-    "CNPJ": 51163563000131,
-    "pharmacyName": "E. J. DA SILVA DE ARAUJO LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AC",
     "city": "SENA MADUREIRA",
-    "neighborhood": "CENTRO",
-    "address": "SIQUEIRA CAMPOS",
-    "CNPJ": 4521258003029,
-    "pharmacyName": "J CRUZ LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AC",
     "city": "SENADOR GUIOMARD",
-    "neighborhood": "COHAB",
-    "address": "SENADOR EDUARDO ASSMAR",
-    "CNPJ": 14331193000178,
-    "pharmacyName": "AURELIO ALVES DE LIMA"
+    "neighborhood": "COHAB"
   },
   {
     "state": "AM",
     "city": "APUI",
-    "neighborhood": "CENTRO",
-    "address": "TRANSAMAZONICA",
-    "CNPJ": 12652268000197,
-    "pharmacyName": "KUROVSKI RACK COMERCIO DE PRODUTOS FARMACEUTICOS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AM",
     "city": "BOA VISTA DO RAMOS",
-    "neighborhood": "CENTRO",
-    "address": "GRACILIANO FARIAS",
-    "CNPJ": 23483440000142,
-    "pharmacyName": "J. S. MONTEIRO LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AM",
     "city": "BOCA DO ACRE",
-    "neighborhood": "PLATO DO PIQUIA",
-    "address": "AV. MARIO DIOGO DE MELO, Nº 143",
-    "CNPJ": 12221330000196,
-    "pharmacyName": "DROGARIA E FARMACIA DE MANIPULACAO ARARAS LTDA - ME"
+    "neighborhood": "PLATO DO PIQUIA"
   },
   {
     "state": "AM",
     "city": "BOCA DO ACRE",
-    "neighborhood": "CENTRO",
-    "address": "TV RUI BARBOSA 101",
-    "CNPJ": 12221330000277,
-    "pharmacyName": "DROGARIA E FARMACIA DE MANIPULACAO ARARAS LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AM",
     "city": "CARAUARI",
-    "neighborhood": "CENTRO",
-    "address": "RUA ANASTACIO CAVALCANTE, N°1530",
-    "CNPJ": 22347965000198,
-    "pharmacyName": "M S DOS SANTOS & CIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AM",
     "city": "EIRUNEPE",
-    "neighborhood": "NOSSA SENHORA DE FATIMA",
-    "address": "AV GETULIO VARGAS, N°01 BOX 01",
-    "CNPJ": 53039908000175,
-    "pharmacyName": "H. L. XAVIER"
+    "neighborhood": "NOSSA SENHORA DE FATIMA"
   },
   {
     "state": "AM",
     "city": "ENVIRA",
-    "neighborhood": "NOVA ESPERANCA",
-    "address": "5 DE SETEMBRO",
-    "CNPJ": 32172129000173,
-    "pharmacyName": "P. E. MATTOS & CIA LTDA"
+    "neighborhood": "NOVA ESPERANCA"
   },
   {
     "state": "AM",
     "city": "ENVIRA",
-    "neighborhood": "NOVA ESPERANCA",
-    "address": "5 DE SETEMBRO",
-    "CNPJ": 32172129000254,
-    "pharmacyName": "P. E. MATTOS & CIA LTDA"
+    "neighborhood": "NOVA ESPERANCA"
   },
   {
     "state": "AM",
     "city": "ENVIRA",
-    "neighborhood": "SANTA RITA",
-    "address": "RUA ESTRADA MARIANO, S/N",
-    "CNPJ": 41900984000144,
-    "pharmacyName": "RAYSA LOPES FELICIANO"
+    "neighborhood": "SANTA RITA"
   },
   {
     "state": "AM",
     "city": "FONTE BOA",
-    "neighborhood": "CENTRO",
-    "address": "AV FRANCISCO PEREIRA DE SOUZA 01",
-    "CNPJ": 14947591000113,
-    "pharmacyName": "A R L DA CUNHA DROGARIA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "AM",
     "city": "FONTE BOA",
-    "neighborhood": "CIDADE NOVA",
-    "address": "FRANCISCO PEREIRA DE SOUZA",
-    "CNPJ": 24187678000193,
-    "pharmacyName": "L N DE FARIAS LTDA"
+    "neighborhood": "CIDADE NOVA"
   },
   {
     "state": "AM",
     "city": "HUMAITA",
-    "neighborhood": "SAO PEDRO",
-    "address": "RIO MADEIRA",
-    "CNPJ": 84096510000102,
-    "pharmacyName": "L. LIMA DA SILVA LTDA"
+    "neighborhood": "SAO PEDRO"
   },
   {
     "state": "AM",
     "city": "HUMAITA",
-    "neighborhood": "REALIDADE",
-    "address": "MUNICIPAL, BR 319 KM 100",
-    "CNPJ": 8722929000136,
-    "pharmacyName": "U.V. SCHNEIDER"
+    "neighborhood": "REALIDADE"
   },
   {
     "state": "AM",
     "city": "IRANDUBA",
-    "neighborhood": "ALTO",
-    "address": "SOLIMOES",
-    "CNPJ": 52787771000174,
-    "pharmacyName": "RODRIGUES E COELHO LTDA"
+    "neighborhood": "ALTO"
   },
   {
     "state": "AM",
     "city": "ITACOATIARA",
-    "neighborhood": "IRACY",
-    "address": "AV 7 DE SETEMBRO, 1355",
-    "CNPJ": 5497211000103,
-    "pharmacyName": "SILVA E FERNANDES LTDA - ME"
+    "neighborhood": "IRACY"
   },
   {
     "state": "BA",
     "city": "ABAIRA",
-    "neighborhood": "CENTRO",
-    "address": "RUA JOSE JOAQUIM DE AZEVEDO 06 B2",
-    "CNPJ": 19673511000100,
-    "pharmacyName": "DROGARIA SANTANA DE MIRANDA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "ABARE",
-    "neighborhood": "CENTRO",
-    "address": "AV MINISTRO OLIVEIRA BRITO, 146 - CASA",
-    "CNPJ": 32629701000180,
-    "pharmacyName": "CICERO ALVES DOS SANTOS DE ABARE - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "ACAJUTIBA",
-    "neighborhood": "CENTRO",
-    "address": "RUA LUIZ VIANA, Nº 72",
-    "CNPJ": 36152928000139,
-    "pharmacyName": "DIJU COMÉRCIO DE MEDICAMENTOS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "ACAJUTIBA",
-    "neighborhood": "CENTRO",
-    "address": "AQUINOEL BORGES",
-    "CNPJ": 13866605000101,
-    "pharmacyName": "DROGARIA DIAS LIMA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "ADUSTINA",
-    "neighborhood": "CENTRO",
-    "address": "RUA JOAO GONZAGA DE MENEZES 164",
-    "CNPJ": 10894024000195,
-    "pharmacyName": "REINALDO VASCONCELOS PEREIRA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "AGUA FRIA",
-    "neighborhood": "BARRA",
-    "address": "RUA EMIDIO TIMOTEO DA SILVA, N° 12",
-    "CNPJ": 33447741000174,
-    "pharmacyName": "L M FARMACIA LTDA"
+    "neighborhood": "BARRA"
   },
   {
     "state": "BA",
     "city": "AGUA FRIA",
-    "neighborhood": "CENTRO",
-    "address": "ESTELITA FALCAO",
-    "CNPJ": 36807941000189,
-    "pharmacyName": "RICARDO PHARMA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "AIQUARA",
-    "neighborhood": "CENTRO",
-    "address": "JJ DE OLIIVEIRA",
-    "CNPJ": 52072207000175,
-    "pharmacyName": "TARIJA FARMACIA POPULAR LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "ALAGOINHAS",
-    "neighborhood": "CENTRO",
-    "address": "PRAÇA DA BANDEIRA, 83",
-    "CNPJ": 61412110048786,
-    "pharmacyName": "DROGARIA SAO PAULO S.A."
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "ALAGOINHAS",
-    "neighborhood": "CENTRO",
-    "address": "RUA VISCONDE DE SAO LOURENCO",
-    "CNPJ": 15629579000123,
-    "pharmacyName": "DROGARIA SILVA ROCHA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "ALAGOINHAS",
-    "neighborhood": "CENTRO",
-    "address": "DA BANDEIRA",
-    "CNPJ": 15629579000204,
-    "pharmacyName": "DROGARIA SILVA ROCHA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "ALAGOINHAS",
-    "neighborhood": "CENTRO",
-    "address": "CONSELHEIRO MOURA",
-    "CNPJ": 15629579000476,
-    "pharmacyName": "DROGARIA SILVA ROCHA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "ALAGOINHAS",
-    "neighborhood": "CENTRO",
-    "address": "JJ SEABRA",
-    "CNPJ": 15629579000557,
-    "pharmacyName": "DROGARIA SILVA ROCHA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "ALAGOINHAS",
-    "neighborhood": "SANTA TEREZINHA",
-    "address": "DR. JOAO DANTAS",
-    "CNPJ": 15629579000808,
-    "pharmacyName": "DROGARIA SILVA ROCHA LTDA"
+    "neighborhood": "SANTA TEREZINHA"
   },
   {
     "state": "BA",
     "city": "ALCOBACA",
-    "neighborhood": "CENTRO",
-    "address": "RUA BIJONGA, 92",
-    "CNPJ": 8935505000150,
-    "pharmacyName": "ANTONIO DE ARAUJO - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "AMARGOSA",
-    "neighborhood": "CENTRO",
-    "address": "FARMÁCIA TIRADENTES 403",
-    "CNPJ": 13408507000120,
-    "pharmacyName": "H S DE JESUS - EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "AMARGOSA",
-    "neighborhood": "CENTRO",
-    "address": "TIRADENTES",
-    "CNPJ": 8662214000216,
-    "pharmacyName": "S C FARMACIA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "BA",
     "city": "AMELIA RODRIGUES",
-    "neighborhood": "CENTRO",
-    "address": "PRAÇA DA MATRIZ,205",
-    "CNPJ": 3619471000170,
-    "pharmacyName": "PATRICÍA RIBEIRO FERREIRA SANTOS"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "ABREU E LIMA",
-    "neighborhood": "CAETES I",
-    "address": "RUA CENTO E NOVENTA E TRÊS, Nº 06 - LOJA 04",
-    "CNPJ": 1143535000184,
-    "pharmacyName": "HILDA MARIA SILVA DE SOUZA"
+    "neighborhood": "CAETES I"
   },
   {
     "state": "PE",
     "city": "ABREU E LIMA",
-    "neighborhood": "CENTRO",
-    "address": "JERONIMO GUEIROS",
-    "CNPJ": 10857260000301,
-    "pharmacyName": "J & L FARMACIA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "ABREU E LIMA",
-    "neighborhood": "JARDIM CAETES",
-    "address": "ANANIAS LACERDA DE ANDRADE",
-    "CNPJ": 13151471000142,
-    "pharmacyName": "PH DA SILVA MEDICAMENTOS LTDA"
+    "neighborhood": "JARDIM CAETES"
   },
   {
     "state": "PE",
     "city": "ABREU E LIMA",
-    "neighborhood": "ALTO DA BELA VISTA",
-    "address": "avenida duque de caxias, rodovia  BR 101 norte nº385, lote 04, qd B L",
-    "CNPJ": 61585865109676,
-    "pharmacyName": "RAIA DROGASIL S/A"
+    "neighborhood": "ALTO DA BELA VISTA"
   },
   {
     "state": "PE",
     "city": "AFOGADOS DA INGAZEIRA",
-    "neighborhood": "CENTRO",
-    "address": "MANOEL BORBA",
-    "CNPJ": 24556482000200,
-    "pharmacyName": "FARMACIA DOS MUNICIPIOS AFOGADOS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "AFOGADOS DA INGAZEIRA",
-    "neighborhood": "CENTRO",
-    "address": "RIO BRANCO",
-    "CNPJ": 4100973000153,
-    "pharmacyName": "FARMACIA MAIS BOMPRECO LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "AFRANIO",
-    "neighborhood": "CENTRO",
-    "address": "CORONEL JUBILINO CAVALCANTI",
-    "CNPJ": 5492447000149,
-    "pharmacyName": "C R MACEDO PRODUTOS FARMACEUTICOS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "AGRESTINA",
-    "neighborhood": "CENTRO",
-    "address": "R JOAO GUILHERME, 255",
-    "CNPJ": 7628607000160,
-    "pharmacyName": "LUIZ LOPES DA SILVA AGRESTINA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "AGRESTINA",
-    "neighborhood": "CENTRO",
-    "address": "CAPITAO MANOEL MATULINO",
-    "CNPJ": 11750616000872,
-    "pharmacyName": "MARIA GORETTE DO NASCIMENTO SILVA - EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "AGRESTINA",
-    "neighborhood": "CENTRO",
-    "address": "JOAO DE DEUS",
-    "CNPJ": 1860281000115,
-    "pharmacyName": "MOACIR FLORENCIO SILVA FARMACIA ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "AGUA PRETA",
-    "neighborhood": "COHAB",
-    "address": "TIAGO CANDIDO RIBEIRO",
-    "CNPJ": 11630338000143,
-    "pharmacyName": "A & G COMERCIO DE PRODUTOS FARMACEUTICOS LTDA"
+    "neighborhood": "COHAB"
   },
   {
     "state": "PE",
     "city": "AGUA PRETA",
-    "neighborhood": "CENTRO",
-    "address": "DOS TRES PODERES",
-    "CNPJ": 8821339000160,
-    "pharmacyName": "SILVA PRODUTOS FARMACEUTICOS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "AGUAS BELAS",
-    "neighborhood": "CENTRO",
-    "address": "AVENIDA CORONEL CONSTATINO 05",
-    "CNPJ": 11844268000126,
-    "pharmacyName": "IZABELLY LARISSA ALEXANDRE SILVA BRITO - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "AGUAS BELAS",
-    "neighborhood": "CENTRO",
-    "address": "PRAÇA",
-    "CNPJ": 10115210000189,
-    "pharmacyName": "J SANTOS & SIQUEIRA LTDA ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "ALAGOINHA",
-    "neighborhood": "CENTRO",
-    "address": "GONCALO ANTUNES BEZERRA",
-    "CNPJ": 11780468000162,
-    "pharmacyName": "MARIA LUCIA ANDRADE"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "ALIANCA",
-    "neighborhood": "CENTRO",
-    "address": "MARECHAL DEODORO",
-    "CNPJ": 13805168000116,
-    "pharmacyName": "AURELIO L DOS S ARAUJO - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "ALIANCA",
-    "neighborhood": "CENTRO",
-    "address": "WALFREDO PESSOA DE MELO",
-    "CNPJ": 10809021000106,
-    "pharmacyName": "L. C. APOLINARIO DA SILVA FARMACIA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "ALTINHO",
-    "neighborhood": "CENTRO",
-    "address": "PRAÇA JULIO RODRIGUES FILHO, 18",
-    "CNPJ": 1840196000195,
-    "pharmacyName": "APARECIDA DE QUEIROZ SANTOS - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "AMARAJI",
-    "neighborhood": "CENTRO",
-    "address": "SENADOR DAVINO PONTUAL",
-    "CNPJ": 8607684000104,
-    "pharmacyName": "MARCIO & SERGIO FARMACIA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "AMARAJI",
-    "neighborhood": "CENTRO",
-    "address": "SENADOR DAVINO PONTUAL",
-    "CNPJ": 10599791000171,
-    "pharmacyName": "ROBSON MAXIMINO DOS SANTOS FARMACIA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PE",
     "city": "AMARAJI",
-    "neighborhood": "CENTRO",
-    "address": "RUA BARAO DE FREXEIRAS 47 CASA",
-    "CNPJ": 4892242000198,
-    "pharmacyName": "V P G ARAUJO MEDICAMENTOS - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)",
-    "address": "QNH AREA ESPECIAL 4",
-    "CNPJ": 447821001142,
-    "pharmacyName": "DROGARIA ROSARIO S/A"
+    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)",
-    "address": "CNJ 1",
-    "CNPJ": 4620919000139,
-    "pharmacyName": "DROGARIA CNJ LTDA"
+    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)",
-    "address": "CND 2",
-    "CNPJ": 4224951000103,
-    "pharmacyName": "DROGARIA DISTRITO SAUDE LTDA"
+    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)",
-    "address": "CNC 3",
-    "CNPJ": 447821010800,
-    "pharmacyName": "DROGARIA ROSARIO S/A"
+    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)",
-    "address": "CND 3 LOTE",
-    "CNPJ": 2551888000186,
-    "pharmacyName": "RODOFARMA COMERCIAL LTDA"
+    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "SANTA MARIA",
-    "address": "CL 103",
-    "CNPJ": 5284619000199,
-    "pharmacyName": "ALTAIR ASSUNCAO DA CUNHA DROGARIA - ME"
+    "neighborhood": "SANTA MARIA"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "SANTA MARIA",
-    "address": "ST NORTE QR 217 CONJ B LT 02 S/N",
-    "CNPJ": 10315707000140,
-    "pharmacyName": "D. B. E SILVA DROGARIA - ME"
+    "neighborhood": "SANTA MARIA"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "SANTA MARIA",
-    "address": "QUADRA 217 CONJUNTO O LOTE, 21",
-    "CNPJ": 1026890000173,
-    "pharmacyName": "D.M.G. DROGARIA LTDA ME"
+    "neighborhood": "SANTA MARIA"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "SANTA MARIA",
-    "address": "QUADRA CL 216 LOTE H LOJA, Nº 03",
-    "CNPJ": 7393162000186,
-    "pharmacyName": "DROGARIA BEM VIVER LTDA - ME"
+    "neighborhood": "SANTA MARIA"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "SANTA MARIA",
-    "address": "SETOR NORTE, CL 114, LJ 05 LT D",
-    "CNPJ": 5357925000108,
-    "pharmacyName": "DROGARIA DE JESUS LTDA - ME"
+    "neighborhood": "SANTA MARIA"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "CRUZEIRO VELHO",
-    "address": "COMERCIO LOCAL BLOCO A",
-    "CNPJ": 4303916000171,
-    "pharmacyName": "ALYNE CRISTHIAN FERREIRA - EPP"
+    "neighborhood": "CRUZEIRO VELHO"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "CRUZEIRO VELHO",
-    "address": "ST SRES AREA ESPECIAL BLOCO C, 03 - SRES CL BL C LJ 03",
-    "CNPJ": 372383000986,
-    "pharmacyName": "DROGARIA BRASIL LTDA"
+    "neighborhood": "CRUZEIRO VELHO"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "PARANOA",
-    "address": "QUADRA 30 CO 22",
-    "CNPJ": 8692807000144,
-    "pharmacyName": "AM&M COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME"
+    "neighborhood": "PARANOA"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "PARANOA",
-    "address": "23 CONJUNTO 17 LOTE",
-    "CNPJ": 38043113000147,
-    "pharmacyName": "ATACADAO JLM LTDA"
+    "neighborhood": "PARANOA"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "PARANOA",
-    "address": "AV PARANOA CONJ 19 LOTE 19 SUBSL E LOJA 01/02",
-    "CNPJ": 17661409000151,
-    "pharmacyName": "BIGFARMA COMERCIO DE MEDICAMENTOS LTDA - ME"
+    "neighborhood": "PARANOA"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "PARANOA",
-    "address": "QUADRA 12 CO 8",
-    "CNPJ": 6223578000193,
-    "pharmacyName": "CSP COMERCIO DE MEDICAMENTOS LTDA - EPP"
+    "neighborhood": "PARANOA"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "PARANOA",
-    "address": "AV PARANOA CONJUNTO, 22, LOTE 19 LOJA 02",
-    "CNPJ": 10461402000147,
-    "pharmacyName": "DROGARIA NOVA BAHIA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA"
+    "neighborhood": "PARANOA"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "SOBRADINHO",
-    "address": "CND LARA CONJUNTO A LOTE, 01",
-    "CNPJ": 7326938000145,
-    "pharmacyName": "AND DROGARIA LTDA - ME"
+    "neighborhood": "SOBRADINHO"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "SOBRADINHO",
-    "address": "SETOR JARDIM EUROPA II CL 02 LOTE, 11 - LOJAS 01 E 02 G. COL.",
-    "CNPJ": 6926940000192,
-    "pharmacyName": "DROGARIA BELA VISTA LTDA - ME"
+    "neighborhood": "SOBRADINHO"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "SOBRADINHO",
-    "address": "CONDOMINIO JARDIM EUROPA I QUADRA 01 CONJUNTO A LOT",
-    "CNPJ": 9123081000191,
-    "pharmacyName": "DROGARIA BOVE & BOVE LTDA-EPP"
+    "neighborhood": "SOBRADINHO"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "SOBRADINHO",
-    "address": "QD 14, S/N - CONJ A-B LOTE 12",
-    "CNPJ": 3730556000121,
-    "pharmacyName": "DROGARIA DROGAFORTE LTDA - ME"
+    "neighborhood": "SOBRADINHO"
   },
   {
     "state": "DF",
     "city": "BRASILIA",
-    "neighborhood": "SOBRADINHO",
-    "address": "CND IMPERIO DOS NOBRES MC 01 LOTE 23,S/N ,",
-    "CNPJ": 7338333000174,
-    "pharmacyName": "DROGARIA ESTANCIA LTDA EPP"
+    "neighborhood": "SOBRADINHO"
   },
   {
     "state": "GO",
     "city": "ABADIA DE GOIAS",
-    "neighborhood": "CENTRO",
-    "address": "COMERCIAL",
-    "CNPJ": 7281045000120,
-    "pharmacyName": "LILIAN REGINA ALVES E CIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ABADIA DE GOIAS",
-    "neighborhood": "SETOR NOVA ABADIA",
-    "address": "NA2",
-    "CNPJ": 17638751000130,
-    "pharmacyName": "MEDFARMA POPULAR MEDCAMENTOS LTDA"
+    "neighborhood": "SETOR NOVA ABADIA"
   },
   {
     "state": "GO",
     "city": "ABADIA DE GOIAS",
-    "neighborhood": "VILA NOSSA SENHORA DA GUIA",
-    "address": "AVENIDA COMERCIAL S/N QE LT 16",
-    "CNPJ": 14340948000109,
-    "pharmacyName": "R.S SANTOS - FARMA VIDA MEDICAMENTOS POPULARES DO BRASIL - ME"
+    "neighborhood": "VILA NOSSA SENHORA DA GUIA"
   },
   {
     "state": "GO",
     "city": "ABADIANIA",
-    "neighborhood": "CENTRO",
-    "address": "AV GERALDO RODRIGUES DOS SANTOS 1166 QUADRA03 LOTE 03",
-    "CNPJ": 17744867000154,
-    "pharmacyName": "DROGARIA BRANCO LTDA ME - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ABADIANIA",
-    "neighborhood": "CENTRO",
-    "address": "AV JK ESQ C/ A RUA MAURILIO BEIRES S/N QD 02 LT 01 E 02",
-    "CNPJ": 6352740000173,
-    "pharmacyName": "DROGARIA C.H.R. LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ABADIANIA",
-    "neighborhood": "CENTRO",
-    "address": "AV GERALDO RODRIGUES DOS SANTOS, 1166, QD 3, LT 3",
-    "CNPJ": 11378566000178,
-    "pharmacyName": "LEANDRO PEREIRA & CIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ABADIANIA",
-    "neighborhood": "CENTRO",
-    "address": "AV. GERALDO RODRIGUES DOS SANTOS, 327-A, QDA.68 - LTE.32",
-    "CNPJ": 6945665000154,
-    "pharmacyName": "SANDRO GONTIJO CUNHA & CIA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ABADIANIA",
-    "neighborhood": "CENTRO",
-    "address": "GERALDO RODRIGUES DOS SANTOS",
-    "CNPJ": 4351694000162,
-    "pharmacyName": "SANTOS E QUEIROZ MEDICAMENTOS E PERFUMARIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ABADIANIA",
-    "neighborhood": "PLANALMIRA",
-    "address": "PIRENOPOLIS",
-    "CNPJ": 5640346000178,
-    "pharmacyName": "DROGARIA PIRES LTDA - ME"
+    "neighborhood": "PLANALMIRA"
   },
   {
     "state": "GO",
     "city": "ACREUNA",
-    "neighborhood": "SETOR CENTRAL",
-    "address": "JORDELINA DO CARMO ARANTES",
-    "CNPJ": 12275266000126,
-    "pharmacyName": "DAG DIAS DROGARIA LTDA - ME"
+    "neighborhood": "SETOR CENTRAL"
   },
   {
     "state": "GO",
     "city": "ACREUNA",
-    "neighborhood": "CENTRO",
-    "address": "JOAO LEMES SOBRINHO",
-    "CNPJ": 9189792000169,
-    "pharmacyName": "DOSE UNICA MEDICAMENTOS E COSMETICOS LTDA ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ACREUNA",
-    "neighborhood": "CENTRO",
-    "address": "ALTINA PIRES ARANTES",
-    "CNPJ": 1752567000187,
-    "pharmacyName": "GOULART COMERCIO DE MEDICAMENTOS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ACREUNA",
-    "neighborhood": "CENTRO",
-    "address": "RUA MARIA MACHADO DE ALMEIDA 117-A QUADRA28 LOTE P",
-    "CNPJ": 20105934000103,
-    "pharmacyName": "MARCO ANTONIO DE ANDRADE MAIA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ACREUNA",
-    "neighborhood": "CENTRO",
-    "address": "R JORDELINA DO CARMO ARANTES, 12, B",
-    "CNPJ": 4694359000167,
-    "pharmacyName": "MONTE CRISTO COMERCIO DE MEDICAMENTOS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ADELANDIA",
-    "neighborhood": "SETOR CENTRAL",
-    "address": "AVENIDA ANUCUNS, 427, SALA A",
-    "CNPJ": 2599641000130,
-    "pharmacyName": "LW MEDICAMENTOS LTDA - ME"
+    "neighborhood": "SETOR CENTRAL"
   },
   {
     "state": "GO",
     "city": "ADELANDIA",
-    "neighborhood": "JARDIM PROGRESSO",
-    "address": "AV DOMINGOS ALVES 665 QD. C LT 5",
-    "CNPJ": 2463098000149,
-    "pharmacyName": "MAURO SERGIO DO NASCIMENTO - ME"
+    "neighborhood": "JARDIM PROGRESSO"
   },
   {
     "state": "GO",
     "city": "AGUA FRIA DE GOIAS",
-    "neighborhood": "CENTRO",
-    "address": "ELOY PINTO DE ARAUJO",
-    "CNPJ": 40885331000170,
-    "pharmacyName": "CARLOS AUGUSTO PINHEIRO SOUZA E CIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "AGUA LIMPA",
-    "neighborhood": "CENTRO",
-    "address": "DO COMERCIO",
-    "CNPJ": 60332584000124,
-    "pharmacyName": "DROGARIA COMERCIO DE MEDICAMENTOS SAUDE LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "RESIDENCIAL PORTAL DA BARRAGEM",
-    "address": "QUADRA 17",
-    "CNPJ": 8584586000190,
-    "pharmacyName": "08.584.586 LTDA"
+    "neighborhood": "RESIDENCIAL PORTAL DA BARRAGEM"
   },
   {
     "state": "GO",
     "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "RESIDENCIAL PORTAL DA BARRAGEM",
-    "address": "17, RUA 23",
-    "CNPJ": 12333778000100,
-    "pharmacyName": "BENQQ COMERCIO DE MEDICAMENTOS LTDA"
+    "neighborhood": "RESIDENCIAL PORTAL DA BARRAGEM"
   },
   {
     "state": "GO",
     "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "RESIDENCIAL PORTAL DA BARRAGEM",
-    "address": "QUADRA 15",
-    "CNPJ": 10973019000178,
-    "pharmacyName": "FARMACIA SAO BARTOLOMEU LTDA."
+    "neighborhood": "RESIDENCIAL PORTAL DA BARRAGEM"
   },
   {
     "state": "GO",
     "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "JARDIM DA BARRAGEM V",
-    "address": "QUADRA 11",
-    "CNPJ": 8468455000148,
-    "pharmacyName": "AME-COMERCIAL DE MEDICAMENTOS LTDA"
+    "neighborhood": "JARDIM DA BARRAGEM V"
   },
   {
     "state": "GO",
     "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "JARDIM DA BARRAGEM V",
-    "address": "QUADRA 11",
-    "CNPJ": 5792171000114,
-    "pharmacyName": "FARMACIA POP LTDA - ME"
+    "neighborhood": "JARDIM DA BARRAGEM V"
   },
   {
     "state": "GO",
     "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "JARDIM DA BARRAGEM V",
-    "address": "QUADRA 11",
-    "CNPJ": 12471028000196,
-    "pharmacyName": "JR MEDICAMENTOS LTDA - ME"
+    "neighborhood": "JARDIM DA BARRAGEM V"
   },
   {
     "state": "GO",
     "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "JARDIM DA BARRAGEM II",
-    "address": "QUADRA 38",
-    "CNPJ": 15088901000154,
-    "pharmacyName": "ANDRADE E CASSIANO MEDICAMENTOS LTDA - ME"
+    "neighborhood": "JARDIM DA BARRAGEM II"
   },
   {
     "state": "GO",
     "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "JARDIM DA BARRAGEM II",
-    "address": "AV PORTO VELHO, S/N - QUADRA45, LOTE 01, SALA 01",
-    "CNPJ": 10776792000144,
-    "pharmacyName": "DROGARIA PEROLA II LTDA - ME"
+    "neighborhood": "JARDIM DA BARRAGEM II"
   },
   {
     "state": "GO",
     "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "PARQUE DA BARRAGEM SETOR 08",
-    "address": "45 CONJUNTO B",
-    "CNPJ": 966060000163,
-    "pharmacyName": "BRANDAS DROGARIA LTDA"
+    "neighborhood": "PARQUE DA BARRAGEM SETOR 08"
   },
   {
     "state": "GO",
     "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "JARDIM PEROLA II",
-    "address": "LOTE 71, S/N",
-    "CNPJ": 12424176000150,
-    "pharmacyName": "C A B COMERCIAL DE MEDICAMENTOS LTDA - ME"
+    "neighborhood": "JARDIM PEROLA II"
   },
   {
     "state": "GO",
     "city": "ALEXANIA",
-    "neighborhood": "CENTRO",
-    "address": "VALE DO SOL",
-    "CNPJ": 11476318000160,
-    "pharmacyName": "DROGARIA DROGACENTER LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ALEXANIA",
-    "neighborhood": "CENTRO",
-    "address": "AVENIDA BRASILIA, 219 - QD 47 LT 11A",
-    "CNPJ": 10275911000185,
-    "pharmacyName": "DROGARIA GABRIEL LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ALEXANIA",
-    "neighborhood": "CENTRO",
-    "address": 30,
-    "CNPJ": 1744473000166,
-    "pharmacyName": "DROGARIA JEMIMA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ALEXANIA",
-    "neighborhood": "CENTRO",
-    "address": "AV 15 DE NOVEMBRO ESQ COM RUA 28, S/N - qd01 lt06 sl01",
-    "CNPJ": 1744473000247,
-    "pharmacyName": "DROGARIA JEMIMA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ALEXANIA",
-    "neighborhood": "CENTRO",
-    "address": "AVENIDA BRASILIA, 271, QD 56 LT 01",
-    "CNPJ": 3388733000133,
-    "pharmacyName": "DROGARIA LUCIO LUCIO LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ALEXANIA",
-    "neighborhood": "LOTEAMENTO ALEXANIA",
-    "address": "VALE DO SOL",
-    "CNPJ": 2997350000108,
-    "pharmacyName": "DROGARIA FERREIRA E JESUS EIRELI"
+    "neighborhood": "LOTEAMENTO ALEXANIA"
   },
   {
     "state": "GO",
     "city": "ALEXANIA",
-    "neighborhood": "SETOR NORTE II",
-    "address": "AVENIDA 15 DE NOVEMBRO, S/N",
-    "CNPJ": 10358700000106,
-    "pharmacyName": "DROGARIA REMEDIOS POPULARES LTDA"
+    "neighborhood": "SETOR NORTE II"
   },
   {
     "state": "GO",
     "city": "ALEXANIA",
-    "neighborhood": "SETOR CENTRO",
-    "address": "R 30, S/N, QUADRA02 LOTE 07",
-    "CNPJ": 18138896000135,
-    "pharmacyName": "DROGARIA SANTA MARIA EIRELI - ME"
+    "neighborhood": "SETOR CENTRO"
   },
   {
     "state": "GO",
     "city": "ALOANDIA",
-    "neighborhood": "SETOR CENTRAL",
-    "address": "11 DE NOVEMBRO",
-    "CNPJ": 35712563000197,
-    "pharmacyName": "COMERCIO MEDICAMENTOS BOM PRECO LTDA"
+    "neighborhood": "SETOR CENTRAL"
   },
   {
     "state": "GO",
     "city": "ALOANDIA",
-    "neighborhood": "CENTRO",
-    "address": "11 DE NOVEMBRO",
-    "CNPJ": 37066142000161,
-    "pharmacyName": "DROGARIA POUPAMAIS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "GO",
     "city": "ALTO HORIZONTE",
-    "neighborhood": "CENTRO",
-    "address": "GETULIO VARGAS",
-    "CNPJ": 7705956000138,
-    "pharmacyName": "CLEIDES BATISTA FERREIRA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "RECREIO DOS BANDEIRANTES",
-    "address": "AV DAS AMERICAS LOTE 7 LOTEAMENTO 17.906  QUADRA 2",
-    "CNPJ": 42225938007324,
-    "pharmacyName": "CSB DROGARIAS S/A"
+    "neighborhood": "RECREIO DOS BANDEIRANTES"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "RECREIO DOS BANDEIRANTES",
-    "address": "DAS AMERICAS",
-    "CNPJ": 12051303000112,
-    "pharmacyName": "C. R. J. COM. DE MEDICAMENTOS LTDA. - ME"
+    "neighborhood": "RECREIO DOS BANDEIRANTES"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "RECREIO DOS BANDEIRANTES",
-    "address": "ALFREDO BALTHAZAR DA SILVEIRA",
-    "CNPJ": 42225938006271,
-    "pharmacyName": "CSB DROGARIAS S/A"
+    "neighborhood": "RECREIO DOS BANDEIRANTES"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "RECREIO DOS BANDEIRANTES",
-    "address": "FREDERICO QUARTAROLLI",
-    "CNPJ": 8989117000151,
-    "pharmacyName": "DROGARIA AMOXFARMA LTDA ME"
+    "neighborhood": "RECREIO DOS BANDEIRANTES"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "RECREIO DOS BANDEIRANTES",
-    "address": "DAS AMERICAS",
-    "CNPJ": 18188499000178,
-    "pharmacyName": "DROGARIA GW AMERICAS LTDA"
+    "neighborhood": "RECREIO DOS BANDEIRANTES"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "BANGU",
-    "address": "MINISTRO ARY FRANCO",
-    "CNPJ": 28763118000433,
-    "pharmacyName": "A NOSSA DROGARIA DE CAXIAS LTDA"
+    "neighborhood": "BANGU"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "BANGU",
-    "address": "CONEGO DE VASCONCELOS",
-    "CNPJ": 28763118001324,
-    "pharmacyName": "A NOSSA DROGARIA DE CAXIAS LTDA"
+    "neighborhood": "BANGU"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "BANGU",
-    "address": "RUA FONSECA, 240 - Loja 104D - 106",
-    "CNPJ": 42225938000826,
-    "pharmacyName": "CSB DROGARIAS S/A"
+    "neighborhood": "BANGU"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "BANGU",
-    "address": "RUA ROQUE BARBOSA SN LT 09 QD 652",
-    "CNPJ": 15541747000124,
-    "pharmacyName": "DROGARIA ATIVA DA ROQUE LTDA"
+    "neighborhood": "BANGU"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "BANGU",
-    "address": "RUA CARTIRI 360",
-    "CNPJ": 5651347000118,
-    "pharmacyName": "DROGARIA ATIVA DE BANGU LTDA"
+    "neighborhood": "BANGU"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "SANTA CRUZ",
-    "address": "FELIPE CARDOSO",
-    "CNPJ": 28763118000603,
-    "pharmacyName": "A NOSSA DROGARIA DE CAXIAS LTDA"
+    "neighborhood": "SANTA CRUZ"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "SANTA CRUZ",
-    "address": "FELIPE CARDOSO",
-    "CNPJ": 28763118001839,
-    "pharmacyName": "A NOSSA DROGARIA DE CAXIAS LTDA"
+    "neighborhood": "SANTA CRUZ"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "SANTA CRUZ",
-    "address": "ESTRADA DA PEDRA, 97",
-    "CNPJ": 14162442000149,
-    "pharmacyName": "DROGARIA VILLEFARMA LTDA."
+    "neighborhood": "SANTA CRUZ"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "SANTA CRUZ",
-    "address": "DO PRADO",
-    "CNPJ": 33438250046906,
-    "pharmacyName": "DROGARIAS PACHECO S/A"
+    "neighborhood": "SANTA CRUZ"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "SANTA CRUZ",
-    "address": "RUA SENADOR CÂMARA Nº 61",
-    "CNPJ": 33438250001562,
-    "pharmacyName": "DROGARIAS PACHECO SA"
+    "neighborhood": "SANTA CRUZ"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "PENHA",
-    "address": "DOS ROMEIROS",
-    "CNPJ": 28763118000867,
-    "pharmacyName": "A NOSSA DROGARIA DE CAXIAS LTDA"
+    "neighborhood": "PENHA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "PENHA",
-    "address": "RUA ROMEIROS, N°00186 LOJA A",
-    "CNPJ": 42225938005461,
-    "pharmacyName": "CSB DROGARIAS S/A"
+    "neighborhood": "PENHA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "PENHA",
-    "address": "estradaJOSE RUCAS1040",
-    "CNPJ": 12354110000130,
-    "pharmacyName": "DROGARIA HM DA PENHA LTDA"
+    "neighborhood": "PENHA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "PENHA",
-    "address": "AV NOSSA SENHORA DA PENHA 564 LOJA B",
-    "CNPJ": 4220475000144,
-    "pharmacyName": "DROGARIA LIDER DA VILA CRUZEIRO LTDA - ME"
+    "neighborhood": "PENHA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "PENHA",
-    "address": "NICARAGUA",
-    "CNPJ": 33438250014974,
-    "pharmacyName": "DROGARIAS PACHECO SA"
+    "neighborhood": "PENHA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "CAMPO GRANDE",
-    "address": "CORONEL AGOSTINHO",
-    "CNPJ": 28763118000948,
-    "pharmacyName": "A NOSSA DROGARIA DE CAXIAS LTDA"
+    "neighborhood": "CAMPO GRANDE"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "CAMPO GRANDE",
-    "address": "RUA VIUVA DANTAS, 80, LOJA B",
-    "CNPJ": 28763118001405,
-    "pharmacyName": "A NOSSA DROGARIA DE CAXIAS LTDA"
+    "neighborhood": "CAMPO GRANDE"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "CAMPO GRANDE",
-    "address": "ESTRADA DO TINGUI, 400, B LOJA",
-    "CNPJ": 7311230000110,
-    "pharmacyName": "CLOROFILA FARMACIA LTDA"
+    "neighborhood": "CAMPO GRANDE"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "CAMPO GRANDE",
-    "address": "ESTRADA DO MENDANHA N° 555 SUC 208-A/B/C",
-    "CNPJ": 42225938000583,
-    "pharmacyName": "CSB DROGARIAS S/A"
+    "neighborhood": "CAMPO GRANDE"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "CAMPO GRANDE",
-    "address": "ESTRADA DO MONTEIRO, 1200 - LOJA 102 G/H",
-    "CNPJ": 42225938001555,
-    "pharmacyName": "CSB DROGARIAS S/A"
+    "neighborhood": "CAMPO GRANDE"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "REALENGO",
-    "address": "DE SANTA CRUZ",
-    "CNPJ": 28763118002134,
-    "pharmacyName": "A NOSSA DROGARIA DE CAXIAS LTDA"
+    "neighborhood": "REALENGO"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "REALENGO",
-    "address": "DA CANCELA PRETA",
-    "CNPJ": 9455386000109,
-    "pharmacyName": "DROGARIA CANCELA PRETA DE PADRE MIGUEL LTDA - ME"
+    "neighborhood": "REALENGO"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "REALENGO",
-    "address": "R LIMITES, 1370",
-    "CNPJ": 17080792000154,
-    "pharmacyName": "DROGARIA DESTAQUE DA LIMITES LTDA - EPP"
+    "neighborhood": "REALENGO"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "REALENGO",
-    "address": "DO REALENGO",
-    "CNPJ": 14587651000134,
-    "pharmacyName": "DROGARIA DESTAQUE DE REALENGO LTDA"
+    "neighborhood": "REALENGO"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "REALENGO",
-    "address": "DE SANTA CRUZ",
-    "CNPJ": 15705215000185,
-    "pharmacyName": "DROGARIA NOVA GAROTINHA LIMITADA"
+    "neighborhood": "REALENGO"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "PIEDADE",
-    "address": "DOM HELDER CAMARA",
-    "CNPJ": 17615779000152,
-    "pharmacyName": "A SUA FARMACIA DA FREGUESIA LTDA"
+    "neighborhood": "PIEDADE"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "PIEDADE",
-    "address": "AV. DOM HELDER CAMARA, N 7870 A",
-    "CNPJ": 17039822000189,
-    "pharmacyName": "DROGARIA FARMA DEZ DE PIEDADE LTDA - EPP"
+    "neighborhood": "PIEDADE"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "PIEDADE",
-    "address": "AV SUBURBANA, 8255",
-    "CNPJ": 33995044000158,
-    "pharmacyName": "DROGARIA JOVEM DA PIEDADE LTDA - ME"
+    "neighborhood": "PIEDADE"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "PIEDADE",
-    "address": "DOM HELDER CAMARA",
-    "CNPJ": 6182904000161,
-    "pharmacyName": "FARMA LINE MEDICAMENTOS 7 LTDA - ME"
+    "neighborhood": "PIEDADE"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "PIEDADE",
-    "address": "RUA JOAO PINHEIRO, 200",
-    "CNPJ": 20657826000135,
-    "pharmacyName": "FARMACIA NORTE FARMA LTDA - EPP"
+    "neighborhood": "PIEDADE"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "BARRA DA TIJUCA",
-    "address": "AV. DAS AMERICAS, 3255, LOJA 138",
-    "CNPJ": 11103467000183,
-    "pharmacyName": "A SUA FARMACIA E VOCE LTDA. EPP"
+    "neighborhood": "BARRA DA TIJUCA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "BARRA DA TIJUCA",
-    "address": "AYRTON SENNA",
-    "CNPJ": 42225938000150,
-    "pharmacyName": "CSB DROGARIAS S/A"
+    "neighborhood": "BARRA DA TIJUCA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "BARRA DA TIJUCA",
-    "address": "AV. DAS AMERICAS N° 4666 LOJA 209-A",
-    "CNPJ": 42225938001202,
-    "pharmacyName": "CSB DROGARIAS S/A"
+    "neighborhood": "BARRA DA TIJUCA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "BARRA DA TIJUCA",
-    "address": "AV. DAS AMÉRICAS, N° 500 - LOJA 104/105/106 BL.7",
-    "CNPJ": 42225938003175,
-    "pharmacyName": "CSB DROGARIAS S/A"
+    "neighborhood": "BARRA DA TIJUCA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "BARRA DA TIJUCA",
-    "address": "AV LUCIO COSTA,  Nº 5130 LOJA 03",
-    "CNPJ": 42225938004570,
-    "pharmacyName": "CSB DROGARIAS S/A"
+    "neighborhood": "BARRA DA TIJUCA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "TAQUARA",
-    "address": "EST MARECHAL MIGUEL SALAZAR MENDES DE MORAIS 170 LOJA B",
-    "CNPJ": 19165336000132,
-    "pharmacyName": "ACETYL DROGARIAS LTDA-EPP - EPP"
+    "neighborhood": "TAQUARA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "TAQUARA",
-    "address": "NELSON CARDOSO",
-    "CNPJ": 8928303000180,
-    "pharmacyName": "DIABETIQUE COMERCIO DE PRODUTOS E MEDICAMENTOS PARA DIABETICOS LTDA"
+    "neighborhood": "TAQUARA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "TAQUARA",
-    "address": "JAURU",
-    "CNPJ": 6120659000168,
-    "pharmacyName": "DROGARIA E PERFUMARIA DEMORIN LTDA"
+    "neighborhood": "TAQUARA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "TAQUARA",
-    "address": "SALINOPOLIS",
-    "CNPJ": 33295908000129,
-    "pharmacyName": "DROGARIA SIX LTDA"
+    "neighborhood": "TAQUARA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "TAQUARA",
-    "address": "RUA ATITUBA, 5 - LJ A",
-    "CNPJ": 12585353000180,
-    "pharmacyName": "DROGARIA VIVA BEM DA TAQUARA LTDA - ME"
+    "neighborhood": "TAQUARA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "JARDIM AMERICA",
-    "address": "RUA PROFESSOR COSTA RIBEIRO, 460, LOJA A",
-    "CNPJ": 9064926000115,
-    "pharmacyName": "AMERICA SAUDE DROGARIA LTDA.ME."
+    "neighborhood": "JARDIM AMERICA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "JARDIM AMERICA",
-    "address": "FRANZ LISZT, 546",
-    "CNPJ": 33438250040541,
-    "pharmacyName": "DROGARIAS PACHECO S/A"
+    "neighborhood": "JARDIM AMERICA"
   },
   {
     "state": "RJ",
     "city": "RIO DE JANEIRO",
-    "neighborhood": "JARDIM AMERICA",
-    "address": "RUA FRANZ LISZT, 583, LJS, B/C",
-    "CNPJ": 10868154000153,
-    "pharmacyName": "FARMACIA DEUS ME ILUMINE LTDA-ME"
+    "neighborhood": "JARDIM AMERICA"
   },
   {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
-    "neighborhood": "CENTRO",
-    "address": "AV RAUL POMPEIA, 62",
-    "CNPJ": 39163365000172,
-    "pharmacyName": "DROGARIA NACIONAL DE ANGRA DOS REIS LTDA EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
-    "neighborhood": "CENTRO",
-    "address": "DO COMERCIO",
-    "CNPJ": 18242999000140,
-    "pharmacyName": "DROGARIA ULTRAPOPULAR DE ANGRA DOS REIS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
-    "neighborhood": "CENTRO",
-    "address": "RUA DO COMERCIO, 71",
-    "CNPJ": 33438250020605,
-    "pharmacyName": "DROGARIAS PACHECO SA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
-    "neighborhood": "CENTRO",
-    "address": "RUA JULIO MARIA, S/N - LJ 10",
-    "CNPJ": 4683341000160,
-    "pharmacyName": "DROGATUR MEDICAMENTOS E PERFUMARIA LTDA."
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
-    "neighborhood": "CENTRO",
-    "address": "DO COMERCIO",
-    "CNPJ": 4779685004083,
-    "pharmacyName": "OFS RJ LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
-    "neighborhood": "ANGRA",
-    "address": "AV. JOSÉ ELIAS RABA, Nº280, LJ 2",
-    "CNPJ": 33438250009547,
-    "pharmacyName": "DROGARIAS PACHECO SA"
+    "neighborhood": "ANGRA"
   },
   {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
-    "neighborhood": "ANGRA",
-    "address": "RUA DO COMÉRCIO Nº 256",
-    "CNPJ": 33438250014621,
-    "pharmacyName": "DROGARIAS PACHECO SA"
+    "neighborhood": "ANGRA"
   },
   {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
-    "neighborhood": "CAMORIM",
-    "address": "AV CAMORIM Nº434",
-    "CNPJ": 4484015000123,
-    "pharmacyName": "FARMACIA DOCE VALE LTDA ME"
+    "neighborhood": "CAMORIM"
   },
   {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
-    "neighborhood": "PARQUE MAMBUCABA (MAMBUCABA)",
-    "address": "FRANCISCO MAGALHAES DE CASTRO",
-    "CNPJ": 5542047000109,
-    "pharmacyName": "FIRMINO NETTO DROGARIA LTDA - ME"
+    "neighborhood": "PARQUE MAMBUCABA (MAMBUCABA)"
   },
   {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
-    "neighborhood": "PARQUE MAMBUCABA (MAMBUCABA)",
-    "address": "FRANCISCO MAGALHAES DE CASTRO",
-    "CNPJ": 4779685002544,
-    "pharmacyName": "OFS RJ LTDA"
+    "neighborhood": "PARQUE MAMBUCABA (MAMBUCABA)"
   },
   {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
-    "neighborhood": "NOVA ANGRA (CUNHAMBEBE)",
-    "address": "FRANCELINO ALVES DE LIMA",
-    "CNPJ": 4779685005055,
-    "pharmacyName": "OFS RJ LTDA"
+    "neighborhood": "NOVA ANGRA (CUNHAMBEBE)"
   },
   {
     "state": "RJ",
     "city": "APERIBE",
-    "neighborhood": "CENTRO",
-    "address": "RUA PROFESSOR HONORIO SILVESTRE, 255",
-    "CNPJ": 31502412000153,
-    "pharmacyName": "DROGARIA APERIBEENSE LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "APERIBE",
-    "neighborhood": "CENTRO",
-    "address": "HONORIO SILVESTRE",
-    "CNPJ": 29630464000163,
-    "pharmacyName": "DROGARIA NEDER DE APERIBE LTDA ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "APERIBE",
-    "neighborhood": "CENTRO",
-    "address": "SERAFIM BAIRRAL",
-    "CNPJ": 2346998000106,
-    "pharmacyName": "FARMACIA PINHEIROS DE APERIBE LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "APERIBE",
-    "neighborhood": "CENTRO",
-    "address": "RUA SERAFIM BAIRRAL, 1043",
-    "CNPJ": 12685650000105,
-    "pharmacyName": "FARMACIA SOUZA DE APERIBE LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ARARUAMA",
-    "neighborhood": "IGUABINHA",
-    "address": "RODOVIA AMARAL PEIXOTO, 95625 - LOJA 6",
-    "CNPJ": 18612567000184,
-    "pharmacyName": "A.B.K. CAVALCANTE DROGARIA LTDA - ME"
+    "neighborhood": "IGUABINHA"
   },
   {
     "state": "RJ",
     "city": "ARARUAMA",
-    "neighborhood": "IGUABINHA",
-    "address": "BIANCA",
-    "CNPJ": 7636026000170,
-    "pharmacyName": "FARMASTER FARMACIA E PERFUMARIA LTDA - ME"
+    "neighborhood": "IGUABINHA"
   },
   {
     "state": "RJ",
     "city": "ARARUAMA",
-    "neighborhood": "CENTRO (SAO VICENTE)",
-    "address": "OSCARINO PEREIRA DE ANDRADE",
-    "CNPJ": 17882913000181,
-    "pharmacyName": "COSTA REBELO DROGARIA LTDA - ME"
+    "neighborhood": "CENTRO (SAO VICENTE)"
   },
   {
     "state": "RJ",
     "city": "ARARUAMA",
-    "neighborhood": "CENTRO",
-    "address": "GETULIO VARGAS",
-    "CNPJ": 29715059000148,
-    "pharmacyName": "DROGARIA MONICA DE ARARUAMA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ARARUAMA",
-    "neighborhood": "CENTRO",
-    "address": "AVENIDA ARARUAMA 971 LOJA",
-    "CNPJ": 7089107000105,
-    "pharmacyName": "DROGARIA PH DE ARARUAMA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ARARUAMA",
-    "neighborhood": "CENTRO",
-    "address": "NILO PECANHA",
-    "CNPJ": 33438250048100,
-    "pharmacyName": "DROGARIAS PACHECO S/A"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ARARUAMA",
-    "neighborhood": "CENTRO",
-    "address": "AVENIDA BRASIL Nº60 LOJA 18",
-    "CNPJ": 33438250016594,
-    "pharmacyName": "DROGARIAS PACHECO SA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ARARUAMA",
-    "neighborhood": "CENTRO",
-    "address": "ROSA RAPOSO",
-    "CNPJ": 10685472000189,
-    "pharmacyName": "E G B MELO DROGARIA E PERFUMARIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ARARUAMA",
-    "neighborhood": "ARARUAMA LAGOA SHOPPING",
-    "address": "JOHN KENNEDY",
-    "CNPJ": 5588235000160,
-    "pharmacyName": "DROGARIA PAMELLA DE ARARUAMA LTDA"
+    "neighborhood": "ARARUAMA LAGOA SHOPPING"
   },
   {
     "state": "RJ",
     "city": "ARARUAMA",
-    "neighborhood": "COQUEIRAL",
-    "address": "RODOVIA AMARAL PEIXOTO, SN - KM 90 - LOJA 06 B",
-    "CNPJ": 2968566000137,
-    "pharmacyName": "DROGARIA VERAO DE ARARUAMA LTDA ME"
+    "neighborhood": "COQUEIRAL"
   },
   {
     "state": "RJ",
     "city": "AREAL",
-    "neighborhood": "CENTRO",
-    "address": "PRESIDENTE CASTELO BRANCO",
-    "CNPJ": 2836482000140,
-    "pharmacyName": "DROGARIA BARATEZA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "AREAL",
-    "neighborhood": "CENTRO",
-    "address": "AMARAL PEIXOTO",
-    "CNPJ": 7231216000107,
-    "pharmacyName": "FARMABEM - FARMACIA BEMPOSTA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ARMACAO DOS BUZIOS",
-    "neighborhood": "MANGUINHOS",
-    "address": "RUA PAU BRASIL, 09 - LOJA 03",
-    "CNPJ": 5136998000170,
-    "pharmacyName": "ELZA MARIA DA SILVA SANTOS FARMACIA E PERFUMARIA - ME"
+    "neighborhood": "MANGUINHOS"
   },
   {
     "state": "RJ",
     "city": "ARMACAO DOS BUZIOS",
-    "neighborhood": "CENTRO",
-    "address": "R MANOEL DE CARVALHO, 70 - LOJA 02",
-    "CNPJ": 5136990000103,
-    "pharmacyName": "EUSEBIO DA SILVA SANTOS FARMACIA E PERFUMARIA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ARMACAO DOS BUZIOS",
-    "neighborhood": "MANGUINHOS",
-    "address": "EST JOSE BENTO RIBEIRO DANTAS, 4000",
-    "CNPJ": 8394861000103,
-    "pharmacyName": "J. E. DROGARIA DE BUZIOS LTDA. - ME"
+    "neighborhood": "MANGUINHOS"
   },
   {
     "state": "RJ",
     "city": "ARRAIAL DO CABO",
-    "neighborhood": "PRAIA GRANDE",
-    "address": "GETULIO VARGAS",
-    "CNPJ": 8803547000137,
-    "pharmacyName": "DROGARIA ARCHANGELO E RANGEL LTDA - ME"
+    "neighborhood": "PRAIA GRANDE"
   },
   {
     "state": "RJ",
     "city": "ARRAIAL DO CABO",
-    "neighborhood": "PRAIA GRANDE",
-    "address": "DA INDEPENDENCIA",
-    "CNPJ": 8804440000294,
-    "pharmacyName": "DROGARIA DUTRA E ESTEVES LTDA - ME"
+    "neighborhood": "PRAIA GRANDE"
   },
   {
     "state": "RJ",
     "city": "ARRAIAL DO CABO",
-    "neighborhood": "CENTRO",
-    "address": "GOVERNADOR LEONEL DE M BRIZOLA",
-    "CNPJ": 8804440000103,
-    "pharmacyName": "DROGARIA DUTRA E ESTEVES LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "ARRAIAL DO CABO",
-    "neighborhood": "CENTRO",
-    "address": "GOVERNADOR LEONEL DE MOURA BRIZOLA",
-    "CNPJ": 2786768000168,
-    "pharmacyName": "FARMACIA SAO JOSE DE BUZIOS LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "BARRA DO PIRAI",
-    "neighborhood": "CENTRO",
-    "address": "RUA AURELIANO GARCIA, Nº 269",
-    "CNPJ": 1513289000105,
-    "pharmacyName": "DROGAMINAS DE BARRA DO PIRAI LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "BARRA DO PIRAI",
-    "neighborhood": "CENTRO",
-    "address": "GOVERNADOR PORTELA",
-    "CNPJ": 5193601000181,
-    "pharmacyName": "DROGARIA AMERICANA DE BARRA DO PIRAI LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "BARRA DO PIRAI",
-    "neighborhood": "CENTRO",
-    "address": "JULIO BRAGA",
-    "CNPJ": 5193635000176,
-    "pharmacyName": "DROGARIA GLOBO DE BARRA DO PIRAI LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "BARRA DO PIRAI",
-    "neighborhood": "CENTRO",
-    "address": "GOVERNADOR PORTELA",
-    "CNPJ": 5193031000120,
-    "pharmacyName": "DROGARIA IRMAOS VIEIRA DE BARRA DO PIRAI LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "BARRA DO PIRAI",
-    "neighborhood": "CENTRO",
-    "address": "NILO PECANHA",
-    "CNPJ": 5193067000103,
-    "pharmacyName": "DROGARIA MAZZONI DE BARRA DO PIRAI LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "BARRA DO PIRAI",
-    "neighborhood": "CALIFORNIA DA BARRA",
-    "address": "JOAO MAFORD",
-    "CNPJ": 19374162000118,
-    "pharmacyName": "FMS DROGARIAS LTDA - ME"
+    "neighborhood": "CALIFORNIA DA BARRA"
   },
   {
     "state": "RJ",
     "city": "BARRA DO PIRAI",
-    "neighborhood": "IPIABAS",
-    "address": "PCA JOAO ANTONIO CAMERANO, 236",
-    "CNPJ": 996657000150,
-    "pharmacyName": "OLIVIO GOMES DE AZEVEDO FARMACIA E PERFUMARIA ME"
+    "neighborhood": "IPIABAS"
   },
   {
     "state": "RJ",
     "city": "BARRA MANSA",
-    "neighborhood": "BOA VISTA II",
-    "address": "Rua ZILMAR MARIA COSTA AUGUSTO 10",
-    "CNPJ": 8798328000298,
-    "pharmacyName": "ANA PAULA DE AZEVEDO BALBI FARMACIA - ME"
+    "neighborhood": "BOA VISTA II"
   },
   {
     "state": "RJ",
     "city": "BARRA MANSA",
-    "neighborhood": "NOVE DE ABRIL",
-    "address": "LACYR SCHETTINO",
-    "CNPJ": 8798328000107,
-    "pharmacyName": "ANA PAULA DE AZEVEDO BALBI FARMACIA LTDA"
+    "neighborhood": "NOVE DE ABRIL"
   },
   {
     "state": "RJ",
     "city": "BARRA MANSA",
-    "neighborhood": "CENTRO",
-    "address": "DUQUE DE CAXIAS, 110, LOJA",
-    "CNPJ": 7419102000195,
-    "pharmacyName": "D D B 110 DROGARIA LTDA ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "BARRA MANSA",
-    "neighborhood": "CENTRO",
-    "address": "JOAQUIM LEITE",
-    "CNPJ": 4335623000176,
-    "pharmacyName": "D J L DROGARIA LTDA EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "BARRA MANSA",
-    "neighborhood": "CENTRO",
-    "address": "DUQUE DE CAXIAS",
-    "CNPJ": 29816857000166,
-    "pharmacyName": "DROGARIA ESPIRITO SANTO LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "BARRA MANSA",
-    "neighborhood": "CENTRO",
-    "address": "JOAQUIM LEITE",
-    "CNPJ": 32527236000177,
-    "pharmacyName": "DROGARIA ROTATIVA DE BARRA MANSA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "BARRA MANSA",
-    "neighborhood": "CENTRO",
-    "address": "JOAQUIM LEITE",
-    "CNPJ": 33438250000671,
-    "pharmacyName": "DROGARIAS PACHECO SA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "BARRA MANSA",
-    "neighborhood": "VISTA ALEGRE",
-    "address": "AVENIDA PRESIDENTE TANCREDO NEVES, 657 - LOT. AIURUOCA",
-    "CNPJ": 7835631000170,
-    "pharmacyName": "DROGARIA ALMEFAR LTDA - ME"
+    "neighborhood": "VISTA ALEGRE"
   },
   {
     "state": "RJ",
     "city": "BARRA MANSA",
-    "neighborhood": "VISTA ALEGRE",
-    "address": "AV CRISTIANO DOS REIS MEIRELES FILHO 1046",
-    "CNPJ": 2070840000156,
-    "pharmacyName": "DROGARIA EMAUS LTDA - ME"
+    "neighborhood": "VISTA ALEGRE"
   },
   {
     "state": "RJ",
     "city": "BARRA MANSA",
-    "neighborhood": "MONTE CRISTO",
-    "address": "RUA PEDRO V DE SOUZA, 163",
-    "CNPJ": 1092190000187,
-    "pharmacyName": "DROGARIA SAO LONGUINHO LTDA - ME"
+    "neighborhood": "MONTE CRISTO"
   },
   {
     "state": "RJ",
     "city": "BELFORD ROXO",
-    "neighborhood": "HELIOPOLIS",
-    "address": "ESTRADA DR FARRULA, 1177 - LOJA",
-    "CNPJ": 31036684000105,
-    "pharmacyName": "A O MACEDO DROGARIA LTDA - ME"
+    "neighborhood": "HELIOPOLIS"
   },
   {
     "state": "RJ",
     "city": "BELFORD ROXO",
-    "neighborhood": "HELIOPOLIS",
-    "address": "AVENIDA TAPAJOS 162 LOJAS A B",
-    "CNPJ": 35841667000100,
-    "pharmacyName": "DROGARIA MONTE MORIA LTDA - ME"
+    "neighborhood": "HELIOPOLIS"
   },
   {
     "state": "RJ",
     "city": "BELFORD ROXO",
-    "neighborhood": "HELIOPOLIS",
-    "address": "JULIO DE AMORIM PEREIRA",
-    "CNPJ": 7391537000179,
-    "pharmacyName": "VIDAREAL DROGARIA LTDA ME"
+    "neighborhood": "HELIOPOLIS"
   },
   {
     "state": "RJ",
     "city": "BELFORD ROXO",
-    "neighborhood": "DAS GRACAS",
-    "address": "ITAIARA",
-    "CNPJ": 5382582000131,
-    "pharmacyName": "DIXI RIO LTDA"
+    "neighborhood": "DAS GRACAS"
   },
   {
     "state": "RJ",
     "city": "BELFORD ROXO",
-    "neighborhood": "PARQUE SAO VICENTE",
-    "address": "AVENIDA BOULEVARD, 163 LOJA",
-    "CNPJ": 27190925000107,
-    "pharmacyName": "DROGANORTE DROGARIA LTDA"
+    "neighborhood": "PARQUE SAO VICENTE"
   },
   {
     "state": "RJ",
     "city": "BELFORD ROXO",
-    "neighborhood": "PARQUE SAO VICENTE",
-    "address": "AVENIDA BOULEVARD, 245 - LOJA",
-    "CNPJ": 12940692000137,
-    "pharmacyName": "FARMACIA PARQUE SAO VICENTE LTDA - ME"
+    "neighborhood": "PARQUE SAO VICENTE"
   },
   {
     "state": "RJ",
     "city": "BELFORD ROXO",
-    "neighborhood": "VALE DA MANGUEIRA",
-    "address": "EST MARIO SANTANA, 20 - LOJA",
-    "CNPJ": 5821227000111,
-    "pharmacyName": "DROGARIA ADONAI DE BELFORD ROXO LTDA - EPP"
+    "neighborhood": "VALE DA MANGUEIRA"
   },
   {
     "state": "RJ",
     "city": "BELFORD ROXO",
-    "neighborhood": "PARQUE SÃO JOSE",
-    "address": "ESTRADA ANIBAL DA MOTTA",
-    "CNPJ": 7099720000103,
-    "pharmacyName": "DROGARIA ALECRISTIAN 2005 LTDA - ME"
+    "neighborhood": "PARQUE SÃO JOSE"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "MOOCA",
-    "address": "RUA ALAMEDA RODRIGO DE BRUM, 62",
-    "CNPJ": 11833436000188,
-    "pharmacyName": "A S L DROGARIA LTDA - ME"
+    "neighborhood": "MOOCA"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "MOOCA",
-    "address": "RUA DO ORATORIO, Nº 1312",
-    "CNPJ": 2980800000141,
-    "pharmacyName": "DROGA DARCIE LTDA."
+    "neighborhood": "MOOCA"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "MOOCA",
-    "address": "RUA DO ORATORIO, 2579 - 2581",
-    "CNPJ": 10828685000112,
-    "pharmacyName": "DROGA TALUTI LTDA - EPP"
+    "neighborhood": "MOOCA"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "MOOCA",
-    "address": "AVENIDA PAES DE BARROS, Nº 306",
-    "CNPJ": 61412110008300,
-    "pharmacyName": "DROGARIA SÃO PAULO S.A."
+    "neighborhood": "MOOCA"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "MOOCA",
-    "address": "R. SIQUEIRA BUENO, Nº 2066",
-    "CNPJ": 61097101000117,
-    "pharmacyName": "DROGARIA SIQUEIRA BUENO LTDA - EPP"
+    "neighborhood": "MOOCA"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "MOOCA",
-    "address": "TOBIAS BARRETO, 917",
-    "CNPJ": 6323433000164,
-    "pharmacyName": "ESSENCIAL FARMA DROGARIA E PERFUMARIA LTDA - ME"
+    "neighborhood": "MOOCA"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "MOOCA",
-    "address": "DA MOOCA",
-    "CNPJ": 5404331000100,
-    "pharmacyName": "FARMACIA DE MANIPULACAO SINETE LTDA"
+    "neighborhood": "MOOCA"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "MOOCA",
-    "address": "DA MOOCA",
-    "CNPJ": 61585865002014,
-    "pharmacyName": "RAIA DROGASIL S/A"
+    "neighborhood": "MOOCA"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "MOOCA",
-    "address": "AV. CASSANDOCA, Nº 84 - 92/94/102/112/-LJ 01-BL 01",
-    "CNPJ": 61585865066098,
-    "pharmacyName": "RAIA DROGASIL S/A"
+    "neighborhood": "MOOCA"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CASA VERDE",
-    "address": "RUA MARAMBAIA, 106",
-    "CNPJ": 50872290000131,
-    "pharmacyName": "ADEGMAR MORAIS DE OLIVEIRA ME"
+    "neighborhood": "CASA VERDE"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CASA VERDE",
-    "address": "AV. CASA VERDE, 1628",
-    "CNPJ": 65465288000115,
-    "pharmacyName": "DROGARIA ADMA LTDA ME"
+    "neighborhood": "CASA VERDE"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CASA VERDE",
-    "address": "DOUTOR CESAR CASTIGLIONI JUNIOR",
-    "CNPJ": 61412110010207,
-    "pharmacyName": "DROGARIA SAO PAULO S.A."
+    "neighborhood": "CASA VERDE"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CASA VERDE",
-    "address": "PRAÇA DELEGADO AMOROSO NETO 21",
-    "CNPJ": 61412110033835,
-    "pharmacyName": "DROGARIA SAO PAULO S.A."
+    "neighborhood": "CASA VERDE"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "JARDIM ROSINHA",
-    "address": "RUA ESPANHOL, 02",
-    "CNPJ": 5535914000170,
-    "pharmacyName": "ADILSON TEIXEIRA DE MELO - ME"
+    "neighborhood": "JARDIM ROSINHA"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "VILA FANTON",
-    "address": "FIORELLI PECCICACCO",
-    "CNPJ": 20445080000104,
-    "pharmacyName": "AGOSTINHO & SIMAO COMERCIO DE MEDICAMENTOS LTDA. - EPP"
+    "neighborhood": "VILA FANTON"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "VILA RE",
-    "address": "ITINGUCU",
-    "CNPJ": 11837896000184,
-    "pharmacyName": "ANDRE MENDES DE MATTOS - DROGARIA"
+    "neighborhood": "VILA RE"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "VILA RE",
-    "address": "ITINGUCU, Nº 585",
-    "CNPJ": 6006677000113,
-    "pharmacyName": "DROGARIA VILA RE LTDA"
+    "neighborhood": "VILA RE"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "JARDIM RODOLFO PIRANI",
-    "address": "RODOLFO PIRANI",
-    "CNPJ": 3578151000110,
-    "pharmacyName": "ANGELA MARIA FERREIRA DA SILVA DROGARIA - ME"
+    "neighborhood": "JARDIM RODOLFO PIRANI"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "JARDIM RODOLFO PIRANI",
-    "address": "RODOLFO PIRANI",
-    "CNPJ": 6137550000133,
-    "pharmacyName": "DROGARIA REAL SAUDE LTDA - ME"
+    "neighborhood": "JARDIM RODOLFO PIRANI"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "JARDIM RODOLFO PIRANI",
-    "address": "MORRO DAS PEDRAS",
-    "CNPJ": 7012076000186,
-    "pharmacyName": "FIX FARMA DROGARIA E FARMACIA LTDA"
+    "neighborhood": "JARDIM RODOLFO PIRANI"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "VILA ESPERANCA",
-    "address": "RUA MARIA CARLOTA, 877",
-    "CNPJ": 12846956000430,
-    "pharmacyName": "ASSOCIACAO AFAM DE ASSISTENCIA FARMACEUTICA"
+    "neighborhood": "VILA ESPERANCA"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI",
-    "address": "LINS DE VASCONCELOS",
-    "CNPJ": 12846956000783,
-    "pharmacyName": "ASSOCIACAO AFAM DE ASSISTENCIA FARMACEUTICA"
+    "neighborhood": "CAMBUCI"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI",
-    "address": "LARGO DO CAMBUCI 63",
-    "CNPJ": 6055233000178,
-    "pharmacyName": "DROGARIA E PERFUMARIA XAVIER MOLINA LTDA"
+    "neighborhood": "CAMBUCI"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI",
-    "address": "AVENIDA LINS DE VASCONCELOS, 331",
-    "CNPJ": 61412110065605,
-    "pharmacyName": "DROGARIA SAO PAULO S.A."
+    "neighborhood": "CAMBUCI"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI",
-    "address": "AVENIDA LINS DE VASCONCELOS, 1770 - LOJA 12",
-    "CNPJ": 61412110003090,
-    "pharmacyName": "DROGARIA SÃO PAULO S.A."
+    "neighborhood": "CAMBUCI"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI",
-    "address": "AVENIDA LINS DE VASCONCELOS Nº 445",
-    "CNPJ": 5312635000148,
-    "pharmacyName": "DROGARIA SINETE FARMÁCIA DE MANIPULAÇÃO LTDA"
+    "neighborhood": "CAMBUCI"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI",
-    "address": "PRAÇA ALBERTO LION",
-    "CNPJ": 61585865022805,
-    "pharmacyName": "DROGASIL S.A."
+    "neighborhood": "CAMBUCI"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI",
-    "address": "AVENIDA LINS DE VASCONCELOS, 1707",
-    "CNPJ": 6626253043713,
-    "pharmacyName": "EMPREENDIMENTOS PAGUE MENOS S/A"
+    "neighborhood": "CAMBUCI"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI",
-    "address": "LG DO CAMBUCI",
-    "CNPJ": 61585865005463,
-    "pharmacyName": "RAIA DROGASIL S/A"
+    "neighborhood": "CAMBUCI"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CENTRO",
-    "address": "RUA FLORENCIO DE ABREU, Nº 591 - ANDAR 2",
-    "CNPJ": 12846956000198,
-    "pharmacyName": "ASSOCIACAO AFAM DE ASSISTENCIA FARMACEUTICA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CENTRO",
-    "address": "PRAÇA DA SE - S/N",
-    "CNPJ": 7685223001312,
-    "pharmacyName": "CARAMANTI & CARAMANTI LTDA."
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CENTRO",
-    "address": "LARGO SAO BENTO, 119, EST.METRO SAO BENTO",
-    "CNPJ": 7685223001665,
-    "pharmacyName": "CARAMANTI & CARAMANTI LTDA."
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CENTRO",
-    "address": "RUA FORMOSA S/N-LOJA 1",
-    "CNPJ": 7685223001746,
-    "pharmacyName": "CARAMANTI & CARAMANTI LTDA."
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CENTRO",
-    "address": "RUA DESEMBARGADOR BANDEIRA DE MELLO, 221",
-    "CNPJ": 10274951000536,
-    "pharmacyName": "CLASSEFARMA DROGARIAS LTDA."
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CENTRO",
-    "address": "LARGO SAO BENTO, 10",
-    "CNPJ": 61412110031387,
-    "pharmacyName": "DROGARIA SAO PAULO S.A."
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CENTRO",
-    "address": "RUA BARÃO DE ITAPETININGA Nº40",
-    "CNPJ": 61585865000828,
-    "pharmacyName": "DROGASIL S.A."
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CENTRO",
-    "address": "RUA SETE DE ABRIL N.º 268",
-    "CNPJ": 61585865015183,
-    "pharmacyName": "DROGASIL S.A."
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CENTRO",
-    "address": "RUA DIREITA Nº 66",
-    "CNPJ": 61585865018522,
-    "pharmacyName": "DROGASIL S.A."
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "CENTRO",
-    "address": "VIADUTO DO CHA, 20, LOJA D",
-    "CNPJ": 61585865038639,
-    "pharmacyName": "DROGASIL SA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "PACAEMBU",
-    "address": "AVENIDA DOUTOR ARNALDO, Nº 555 LOJA 01",
-    "CNPJ": 7685223001231,
-    "pharmacyName": "CARAMANTI & CARAMANTI LTDA"
+    "neighborhood": "PACAEMBU"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "PACAEMBU",
-    "address": "PRAÇA WENDELL WILKIE 95",
-    "CNPJ": 61412110031972,
-    "pharmacyName": "DROGARIA SAO PAULO S.A."
+    "neighborhood": "PACAEMBU"
   },
   {
     "state": "SP",
     "city": "SAO PAULO",
-    "neighborhood": "PACAEMBU",
-    "address": "AVENIDA PACAEMBU, 1047",
-    "CNPJ": 61585865070362,
-    "pharmacyName": "RAIA DROGASIL S/A"
+    "neighborhood": "PACAEMBU"
   },
   {
     "state": "SP",
     "city": "ADAMANTINA",
-    "neighborhood": "VILA JARDIM",
-    "address": "DAS ROSAS",
-    "CNPJ": 13581853000106,
-    "pharmacyName": "DROGARIA ADAMANTINA LTDA"
+    "neighborhood": "VILA JARDIM"
   },
   {
     "state": "SP",
     "city": "ADAMANTINA",
-    "neighborhood": "CENTRO",
-    "address": "CAPITAO JOSE  ANTONIO  DE  OLIVEIRA",
-    "CNPJ": 57868721000135,
-    "pharmacyName": "DROGARIA SUCESSO DE ADAMANTINA LTDA EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "ADAMANTINA",
-    "neighborhood": "CENTRO",
-    "address": "AV CAP. JOSE ANTONIO DE OLIVEIRA Nº559/563",
-    "CNPJ": 8016020000162,
-    "pharmacyName": "MARTINS  E GRASSI LTDA- ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "ADAMANTINA",
-    "neighborhood": "CENTRO",
-    "address": "AVENIDA RIO BRANCO, 751",
-    "CNPJ": 43002849000107,
-    "pharmacyName": "N. KOBAYASHI & FILHO LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "ADAMANTINA",
-    "neighborhood": "CENTRO",
-    "address": "AVENIDA RIO BRANCO Nº 463",
-    "CNPJ": 3226033000142,
-    "pharmacyName": "ODAIR DE DEUS PINTO - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "ADAMANTINA",
-    "neighborhood": "CENTRO",
-    "address": "AV. RIO BRANCO, Nº 585",
-    "CNPJ": 61585865088652,
-    "pharmacyName": "RAIA DROGASIL S/A"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "ADAMANTINA",
-    "neighborhood": "CENTRO",
-    "address": "RUA DEPUTADO SALLES FILHO, Nº 196",
-    "CNPJ": 3611789000105,
-    "pharmacyName": "NATIVA FARMACIA DE MANIPULACAO DE ADAMANTINA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "ADAMANTINA",
-    "neighborhood": "DESMEMBRAMENTO SAN CONRADO",
-    "address": "RIO BRANCO",
-    "CNPJ": 11130518000166,
-    "pharmacyName": "RAM PRODUTOS FARMACEUTICOS LTDA"
+    "neighborhood": "DESMEMBRAMENTO SAN CONRADO"
   },
   {
     "state": "SP",
     "city": "ADOLFO",
-    "neighborhood": "CENTRO",
-    "address": "RUI BARBOSA, 850",
-    "CNPJ": 3121604000184,
-    "pharmacyName": "ADILSON SHINJI OKA & CIA LTDA ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "ADOLFO",
-    "neighborhood": "CENTRO",
-    "address": "R SANTOS DUMONT 677",
-    "CNPJ": 9396355000116,
-    "pharmacyName": "WANIA MARIA ZANETTI STUCCHI BARDELLA DROGARIA ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUAI",
-    "neighborhood": "CENTRO",
-    "address": "RUA VALINS, 421",
-    "CNPJ": 16904712000175,
-    "pharmacyName": "CARLOS ALEXANDRE GRAMA LUCIO DROGARIA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUAI",
-    "neighborhood": "CENTRO",
-    "address": "RUI BARBOSA, 240",
-    "CNPJ": 426117000131,
-    "pharmacyName": "GERALDO MAGELA DOS SANTOS - EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUAI",
-    "neighborhood": "CENTRO",
-    "address": "RUA MAJOR BRAGA, 797",
-    "CNPJ": 8846431000185,
-    "pharmacyName": "LUIZ FRANCISCO EMYGDIO"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUAI",
-    "neighborhood": "CENTRO",
-    "address": "MAJOR BRAGA",
-    "CNPJ": 9577887000150,
-    "pharmacyName": "M. T. DE ARAUJO - DROGARIA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUAI",
-    "neighborhood": "CIDADE NOVA",
-    "address": "R. WILSON BARBOSA BRAGA, Nº 447 - sala 01",
-    "CNPJ": 16812858000190,
-    "pharmacyName": "RONDELLI & SARDELI DROGARIA LTDA - ME"
+    "neighborhood": "CIDADE NOVA"
   },
   {
     "state": "SP",
     "city": "AGUAS DA PRATA",
-    "neighborhood": "CENTRO",
-    "address": "ALFREDO EGYDIO DE SOUZA ARANHA",
-    "CNPJ": 7267033000141,
-    "pharmacyName": "LUCIMARA MONTES PERAL BERTHOLUCCI"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUAS DE LINDOIA",
-    "neighborhood": "PIMENTEIS",
-    "address": "JABOTICABAL",
-    "CNPJ": 3785176000194,
-    "pharmacyName": "DROGA MAIS POPULAR LTDA - ME"
+    "neighborhood": "PIMENTEIS"
   },
   {
     "state": "SP",
     "city": "AGUAS DE LINDOIA",
-    "neighborhood": "BELA VISTA",
-    "address": "MONTE SIAO",
-    "CNPJ": 9383802000100,
-    "pharmacyName": "DROGARIA LUIZ HUMBERTO DE ALMEIDA JUNIOR LTDA"
+    "neighborhood": "BELA VISTA"
   },
   {
     "state": "SP",
     "city": "AGUAS DE LINDOIA",
-    "neighborhood": "CENTRO",
-    "address": "JOSE LUIS LEME MACIEL",
-    "CNPJ": 22646244000260,
-    "pharmacyName": "DROGARIA SIDNEY ZUCATO LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUAS DE LINDOIA",
-    "neighborhood": "CENTRO",
-    "address": "JOSE LUIZ LEME MACIEL",
-    "CNPJ": 2706835000197,
-    "pharmacyName": "ERICA GIMENES CAMARGO - EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUAS DE SANTA BARBARA",
-    "neighborhood": "CENTRO",
-    "address": "RUA MARQUES DO VALE, 47",
-    "CNPJ": 2955428000113,
-    "pharmacyName": "CASTILHO & RODRIGUES MEDICAMENTOS LTDA- EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUAS DE SANTA BARBARA",
-    "neighborhood": "VILA CANTIZANI",
-    "address": "AVENIDA ATALIBA LEONEL 213",
-    "CNPJ": 1657781000154,
-    "pharmacyName": "ONILDO LUIZ DE OLIVEIRA"
+    "neighborhood": "VILA CANTIZANI"
   },
   {
     "state": "SP",
     "city": "AGUAS DE SAO PEDRO",
-    "neighborhood": "CENTRO",
-    "address": "AVENIDA CARLOS MAURO, Nº 375",
-    "CNPJ": 7749224000140,
-    "pharmacyName": "DROGARIA ESTANCIA AGUAS DE SAO PEDRO LTDA - EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUDOS",
-    "neighborhood": "CENTRO",
-    "address": "RUA \tTreze de maio 744 A",
-    "CNPJ": 13653193000121,
-    "pharmacyName": "A P A MUNHOZ DROGARIA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUDOS",
-    "neighborhood": "CENTRO",
-    "address": "RUI BARBOSA",
-    "CNPJ": 43136522000128,
-    "pharmacyName": "ALCARDE & CIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUDOS",
-    "neighborhood": "CENTRO",
-    "address": "RUA SETE DE SETEMBRO, 1211",
-    "CNPJ": 8877465000218,
-    "pharmacyName": "DROGARIA FRANCHIN & CHRISTOFARO LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUDOS",
-    "neighborhood": "CENTRO",
-    "address": "RUA TREZE DE MAIO, 758",
-    "CNPJ": 8630171000106,
-    "pharmacyName": "DROGARIA MUNHOZ & MUNHOZ LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUDOS",
-    "neighborhood": "CENTRO",
-    "address": "RUA 7 DE SETEMBRO, 1.278",
-    "CNPJ": 55600522000116,
-    "pharmacyName": "DROGARIA POPULAR DE AGUDOS LTDA - EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "AGUDOS",
-    "neighborhood": "VILA SANTA CECILIA",
-    "address": "RUI BARBOSA, Nº 637",
-    "CNPJ": 8877465000137,
-    "pharmacyName": "DROGARIA FRANCHIN & CHRISTOFARO LTDA - ME"
+    "neighborhood": "VILA SANTA CECILIA"
   },
   {
     "state": "SP",
     "city": "AGUDOS",
-    "neighborhood": "PARQUE PAMPULHA",
-    "address": "DIONIZIO DALBETO",
-    "CNPJ": 58958927000119,
-    "pharmacyName": "GR VERTUAN & CIA LTDA ME"
+    "neighborhood": "PARQUE PAMPULHA"
   },
   {
     "state": "SP",
     "city": "AGUDOS",
-    "neighborhood": "CHACARA AVATO",
-    "address": "RUA RUI BARBOSA, 1357",
-    "CNPJ": 15465350000109,
-    "pharmacyName": "GUILHERME SANCHES TOSTA - ME"
+    "neighborhood": "CHACARA AVATO"
   },
   {
     "state": "SP",
     "city": "AGUDOS",
-    "neighborhood": "CENTENARIO PARQUE",
-    "address": "rua LUIZ DA RIVA FILHO 154",
-    "CNPJ": 14675903000187,
-    "pharmacyName": "JOSE NITA - ME"
+    "neighborhood": "CENTENARIO PARQUE"
   },
   {
     "state": "SP",
     "city": "ALAMBARI",
-    "neighborhood": "CENTRO",
-    "address": "MAJOR CABRAL",
-    "CNPJ": 8351356000181,
-    "pharmacyName": "DROGARIA CAMPOS ROLIM LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "SP",
     "city": "ALAMBARI",
-    "neighborhood": "TATETU",
-    "address": "RUA RIO CLARO, 458 - NT",
-    "CNPJ": 13598824000157,
-    "pharmacyName": "DROGARIA JULIANA WD LTDA - ME"
+    "neighborhood": "TATETU"
   },
   {
     "state": "PR",
     "city": "ABATIA",
-    "neighborhood": "CENTRO",
-    "address": "RUA JOSE CARVALHO DE OLIVEIRA, 107",
-    "CNPJ": 75717199000172,
-    "pharmacyName": "F. T. G. ABATIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ABATIA",
-    "neighborhood": "CENTRO",
-    "address": "JOSE CARV DE OLIVEIRA 151",
-    "CNPJ": 79774212000186,
-    "pharmacyName": "FARMACIA SAGRADO CORAÇÃO DE JESUS"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "AGUDOS DO SUL",
-    "neighborhood": "CENTRO",
-    "address": "RUA CARLOS MACHADO, 40 - SALA 06",
-    "CNPJ": 12057032000102,
-    "pharmacyName": "CARLA OLIVEIRA DIAS SILVEIRA EIRELI - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "AGUDOS DO SUL",
-    "neighborhood": "CENTRO",
-    "address": "BRASIL",
-    "CNPJ": 2773475000146,
-    "pharmacyName": "DAVID CANTERI & CIA LTDA ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALMIRANTE TAMANDARE",
-    "neighborhood": "JD ARCO IRIS",
-    "address": "RUA MARIA MADALENA, Nº 85 - LOJA A",
-    "CNPJ": 8485965000123,
-    "pharmacyName": "ALEXANDRE LEAL FURLANI FARMACIA LTDA"
+    "neighborhood": "JD ARCO IRIS"
   },
   {
     "state": "PR",
     "city": "ALMIRANTE TAMANDARE",
-    "neighborhood": "VILA SANTA TEREZINHA",
-    "address": "EMILIO JOHNSON",
-    "CNPJ": 18231855000270,
-    "pharmacyName": "COMERCIO DE MEDICAMENTOS POPULAR LTDA."
+    "neighborhood": "VILA SANTA TEREZINHA"
   },
   {
     "state": "PR",
     "city": "ALMIRANTE TAMANDARE",
-    "neighborhood": "VILA SANTA TEREZINHA",
-    "address": "EMILIO JOHNSON",
-    "CNPJ": 79430682004896,
-    "pharmacyName": "FARMACIA E DROGARIA NISSEI S.A"
+    "neighborhood": "VILA SANTA TEREZINHA"
   },
   {
     "state": "PR",
     "city": "ALMIRANTE TAMANDARE",
-    "neighborhood": "VILA ALTO PINHEIROS",
-    "address": "ANTONIO JOHNSON",
-    "CNPJ": 7568243000170,
-    "pharmacyName": "DC COMERCIO DE MEDICAMENTOS LTDA"
+    "neighborhood": "VILA ALTO PINHEIROS"
   },
   {
     "state": "PR",
     "city": "ALMIRANTE TAMANDARE",
-    "neighborhood": "CACHOEIRA",
-    "address": "FRANCISCO KRUGER",
-    "CNPJ": 10562375000107,
-    "pharmacyName": "FARMACIA KALLEL LTDA"
+    "neighborhood": "CACHOEIRA"
   },
   {
     "state": "PR",
     "city": "ALMIRANTE TAMANDARE",
-    "neighborhood": "JARDIM VALMA",
-    "address": "R VEREADOR WADISLAU BUGALSKI, 4287",
-    "CNPJ": 86999844000103,
-    "pharmacyName": "GORAS & SOMMER LTDA - ME"
+    "neighborhood": "JARDIM VALMA"
   },
   {
     "state": "PR",
     "city": "ALTAMIRA DO PARANA",
-    "neighborhood": 0,
-    "address": "JAYME CANET",
-    "CNPJ": 80149149000176,
-    "pharmacyName": "FARMACIA ALTAMIRA LTDA"
+    "neighborhood": 0
   },
   {
     "state": "PR",
     "city": "ALTO PARAISO",
-    "neighborhood": "CENTRO",
-    "address": "PEDRO AMARO DOS SANTOS",
-    "CNPJ": 26113805000135,
-    "pharmacyName": "ESSENCIAL CUIDADOS E SAUDE LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTO PARANA",
-    "neighborhood": "CENTRO",
-    "address": "avenida PARANA 2199",
-    "CNPJ": 16422603000111,
-    "pharmacyName": "ALTOFARMA MEDICAMENTOS LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTO PARANA",
-    "neighborhood": "CENTRO",
-    "address": "PARANA",
-    "CNPJ": 7450694000108,
-    "pharmacyName": "FLOTE COMERCIO DE PRODUTOS FARMACEUTICOS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTO PARANA",
-    "neighborhood": "CENTRO",
-    "address": "AV PARANA, 2379",
-    "CNPJ": 4550304000183,
-    "pharmacyName": "M A MARAFON JACOB & CIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTO PARANA",
-    "neighborhood": "CENTRO",
-    "address": "PARANA",
-    "CNPJ": 15815378000110,
-    "pharmacyName": "MARIO A. ALSSUFE & PISTOR LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTO PARANA",
-    "neighborhood": "CENTRO",
-    "address": "AV IPIRANGA, 1579, TERREO",
-    "CNPJ": 8474842000197,
-    "pharmacyName": "PATRICIA CRISTINA PERGO - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTO PIQUIRI",
-    "neighborhood": "CENTRO",
-    "address": "RUA INDEPENDENCIA, 256, PREDIO",
-    "CNPJ": 4398949000142,
-    "pharmacyName": "FARMACIA PESSUTOFARMA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTO PIQUIRI",
-    "neighborhood": "CENTRO",
-    "address": "BRASIL",
-    "CNPJ": 7901128000175,
-    "pharmacyName": "K. F. DE ARAUJO & CIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTO PIQUIRI",
-    "neighborhood": "CENTRO",
-    "address": "AV BRASIL, Nº 1680 PREDIO",
-    "CNPJ": 5645058000106,
-    "pharmacyName": "M A DE OLIVEIRA & CIA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTO PIQUIRI",
-    "neighborhood": "SEDE",
-    "address": "BRASIL",
-    "CNPJ": 14160848000192,
-    "pharmacyName": "FARMACIA PINHEIRO LTDA"
+    "neighborhood": "SEDE"
   },
   {
     "state": "PR",
     "city": "ALTONIA",
-    "neighborhood": "CENTRO",
-    "address": "7 DE SETEMBRO",
-    "CNPJ": 2620652000154,
-    "pharmacyName": "BRANCO & VENDRAMETO LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTONIA",
-    "neighborhood": "CENTRO",
-    "address": "rua SANTOS DUMONT, 970",
-    "CNPJ": 6348087000179,
-    "pharmacyName": "C. L. FRANCO & CIA. LTDA."
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTONIA",
-    "neighborhood": "CENTRO",
-    "address": "7 DE SETEMBRO",
-    "CNPJ": 7453365000110,
-    "pharmacyName": "FELIZARI & CIA. LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTONIA",
-    "neighborhood": "CENTRO",
-    "address": "AV 12 DE DEZEMBRO 390",
-    "CNPJ": 2947138000128,
-    "pharmacyName": "M ZANATA PISCINATO - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTONIA",
-    "neighborhood": "CENTRO",
-    "address": "SANTOS DUMONT",
-    "CNPJ": 77869162000195,
-    "pharmacyName": "MASSETTI & FRANCO LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALTONIA",
-    "neighborhood": "JARDIM PANORAMA",
-    "address": "AV. 7 DE SETEMBRO, 1358",
-    "CNPJ": 8937486000109,
-    "pharmacyName": "C A CASQUETE & CIA. LTDA. - ME"
+    "neighborhood": "JARDIM PANORAMA"
   },
   {
     "state": "PR",
     "city": "ALVORADA DO SUL",
-    "neighborhood": "CENTRO",
-    "address": "JOAQUIM BENTO ALVES DE LIMA",
-    "CNPJ": 5048953000143,
-    "pharmacyName": "DARCI BAZONI & CIA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALVORADA DO SUL",
-    "neighborhood": "CENTRO",
-    "address": "JOAQUIM BENTO ALVES DE LIMA",
-    "CNPJ": 75754689000149,
-    "pharmacyName": "L & T COMERCIO DE PRODUTOS FARMACEUTICOS E PERFUMARIAS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALVORADA DO SUL",
-    "neighborhood": "CENTRO",
-    "address": "AV JOAQUIM ALVES BENTO DE LIMA 498",
-    "CNPJ": 8038190000148,
-    "pharmacyName": "NEUZA MARIA GATTO DA SILVA E CIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALVORADA DO SUL",
-    "neighborhood": "CENTRO",
-    "address": "JOAQUIM ALVES BENTO DE LIMA",
-    "CNPJ": 3857298000149,
-    "pharmacyName": "RONALD SILVA GOMES FARMACIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "ALVORADA DO SUL",
-    "neighborhood": "CENTRO",
-    "address": "AVENIDA JOAQUIM BENTO ALVES DE LIMA, Nº 390",
-    "CNPJ": 75131938000140,
-    "pharmacyName": "SEBASTIÃO GONÇALVES DE MELLO ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "AMAPORA",
-    "neighborhood": "CENTRO",
-    "address": "JAIME CANET JUNIOR",
-    "CNPJ": 10664680000100,
-    "pharmacyName": "ABREUFARMA LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "PR",
     "city": "AMAPORA",
-    "neighborhood": "CENTRO",
-    "address": "AV JAIME CANET JUNIOR 77",
-    "CNPJ": 7342189000140,
-    "pharmacyName": "AMOFARMA COMERCIO DE MEDICAMENTOS LTDA - ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "AGUA SANTA",
-    "neighborhood": "AGUA SANTA",
-    "address": "AV PORTO ALEGRE 1280",
-    "CNPJ": 7758185000147,
-    "pharmacyName": "DROGARIA AGUA SANTA LTDA - ME"
+    "neighborhood": "AGUA SANTA"
   },
   {
     "state": "RS",
     "city": "AGUA SANTA",
-    "neighborhood": "CENTRO",
-    "address": "avenida DARIO ROMAN 529 sala 2",
-    "CNPJ": 3991453000204,
-    "pharmacyName": "MARCIO BERTOGLIO & CIA.LTDA - EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "AGUDO",
-    "neighborhood": "CENTRO",
-    "address": "CONCORDIA",
-    "CNPJ": 10258725000138,
-    "pharmacyName": "DROGARIA CASA DOS REMEDIOS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "AGUDO",
-    "neighborhood": "CENTRO",
-    "address": "MARECHAL FLORIANO",
-    "CNPJ": 4945668000162,
-    "pharmacyName": "FRANCIS MARIA ZANELATO"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "AGUDO",
-    "neighborhood": "CENTRO",
-    "address": "GERMANO HENTSCHKE",
-    "CNPJ": 92601426000119,
-    "pharmacyName": "M.D.R. FISCHER & CIA LTDA - EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "AGUDO",
-    "neighborhood": "CENTRO",
-    "address": "MARECHAL DEODORO",
-    "CNPJ": 92601426000208,
-    "pharmacyName": "M.D.R. FISCHER & CIA LTDA - EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "AGUDO",
-    "neighborhood": "CENTRO",
-    "address": "CONCORDIA",
-    "CNPJ": 95165171000187,
-    "pharmacyName": "MADALENA R PACHALY"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "AJURICABA",
-    "neighborhood": "CENTRO",
-    "address": "DA MATRIZ",
-    "CNPJ": 8360107000152,
-    "pharmacyName": "ERNANI S DE MOURA & CIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "AJURICABA",
-    "neighborhood": "CENTRO",
-    "address": "HENRIQUE SCHMADECKE",
-    "CNPJ": 93674935000134,
-    "pharmacyName": "MONTAGNER RIGOLI E CIA LTDA ME"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "ALECRIM",
-    "neighborhood": "CENTRO",
-    "address": "VEREADOR ADELMI COLOSSI",
-    "CNPJ": 74852336000119,
-    "pharmacyName": "JULIANA APARECIDA TAQUARIANO FRANCO"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "ALEGRETE",
-    "neighborhood": "CENTRO",
-    "address": "ASSIS BRASIL",
-    "CNPJ": 5630944000166,
-    "pharmacyName": "A. V. SOUTO"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "ALEGRETE",
-    "neighborhood": "CENTRO",
-    "address": "GASPAR MARTINS",
-    "CNPJ": 88212113012108,
-    "pharmacyName": "COMERCIO DE MEDICAMENTOS BRAIR LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "ALEGRETE",
-    "neighborhood": "CENTRO",
-    "address": "DOS ANDRADAS",
-    "CNPJ": 88212113016448,
-    "pharmacyName": "COMERCIO DE MEDICAMENTOS BRAIR LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "ALEGRETE",
-    "neighborhood": "CENTRO",
-    "address": "RUA GASPAR MARTINS N° 322",
-    "CNPJ": 92665611001220,
-    "pharmacyName": "DIMED S/A DISTRIBUIDORA DE MEDICAMENTOS"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "ALEGRETE",
-    "neighborhood": "CENTRO",
-    "address": "PRAÇA PRESIDENTE GETÚLIO VARGAS 360",
-    "CNPJ": 92665611012507,
-    "pharmacyName": "DIMED S/A DISTRIBUIDORA DE MEDICAMENTOS"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "ALEGRETE",
-    "neighborhood": "LARA",
-    "address": "MARECHAL RONDON",
-    "CNPJ": 5630944000247,
-    "pharmacyName": "A. V. SOUTO EIRELI"
+    "neighborhood": "LARA"
   },
   {
     "state": "RS",
     "city": "ALEGRETE",
-    "neighborhood": "IBIRAPUITA",
-    "address": "CAVERA",
-    "CNPJ": 16984786000169,
-    "pharmacyName": "FERREIRA & HOLZSCHUH LTDA - ME"
+    "neighborhood": "IBIRAPUITA"
   },
   {
     "state": "RS",
     "city": "ALEGRETE",
-    "neighborhood": "VILA NOVA",
-    "address": "GENERAL SAMPAIO, 152, SALA B",
-    "CNPJ": 7329837000128,
-    "pharmacyName": "KARLA PEREIRA DA COSTA DE ALMEIDA & CIA LTDA - EPP"
+    "neighborhood": "VILA NOVA"
   },
   {
     "state": "RS",
     "city": "ALEGRETE",
-    "neighborhood": "IBIRAPUITAN",
-    "address": "COMERCIAL TIARAJU, Nº 2066",
-    "CNPJ": 10728171000195,
-    "pharmacyName": "SAVANA B. F. BOTONI"
+    "neighborhood": "IBIRAPUITAN"
   },
   {
     "state": "RS",
     "city": "ALEGRIA",
-    "neighborhood": "CENTRO",
-    "address": "15 DE NOVEMBRO",
-    "CNPJ": 107639000170,
-    "pharmacyName": "PAVLAK & VISNESKI LTDA-ME."
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "ALEGRIA",
-    "neighborhood": "CENTRO",
-    "address": "SAO MIGUEL",
-    "CNPJ": 1868071000173,
-    "pharmacyName": "SANAR PRODUTOS FARMACEUTICOS LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "ALMIRANTE TAMANDARE DO SUL",
-    "neighborhood": "CENTRO",
-    "address": "GENERAL LOPES DE OLIVEIRA",
-    "CNPJ": 3808775000186,
-    "pharmacyName": "DROGARIA ARESI LTDA - EPP"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "ALPESTRE",
-    "neighborhood": "CENTRO",
-    "address": "FARRAPOS",
-    "CNPJ": 88177019000159,
-    "pharmacyName": "DROGARIA ALPESTRE LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "ALTO ALEGRE",
-    "neighborhood": "CENTRO",
-    "address": "JULIO DE CASTILHOS",
-    "CNPJ": 7871744000554,
-    "pharmacyName": "JOSE VIONE & CIA LTDA"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RS",
     "city": "ALTO FELIZ",
-    "neighborhood": "CENTRO",
-    "address": "Rua ROBERTO SCHERES, 209, sala 01",
-    "CNPJ": 7019667000347,
-    "pharmacyName": "DROGARIA E FARMACIA DE MANIPULACAO GLICOFARMA LTDA"
+    "neighborhood": "CENTRO"
   }
 ]

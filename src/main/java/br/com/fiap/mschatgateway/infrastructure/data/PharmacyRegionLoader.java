@@ -1,6 +1,6 @@
 package br.com.fiap.mschatgateway.infrastructure.data;
 
-import br.com.fiap.mschatgateway.domain.model.PharmacyRegion;
+import br.com.fiap.mschatgateway.domain.model.region.PharmacyRegion;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.stereotype.Component;
@@ -21,7 +21,7 @@ public class PharmacyRegionLoader {
 
             InputStream is = getClass()
                     .getClassLoader()
-                    .getResourceAsStream("data/pharmacy_popular_regions.json");
+                    .getResourceAsStream("data/farmacia-popular-regions.json");
 
             this.regions = mapper.readValue(
                     is,

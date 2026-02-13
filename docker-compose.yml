@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  ms-chat-gateway:
+    build: .
+    container_name: ms-chat-gateway
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_PROFILES_ACTIVE: ${SPRING_PROFILES_ACTIVE}
+      BACKEND_BASE_URL: ${BACKEND_BASE_URL}
+      TWILIO_ACCOUNT_SID: ${TWILIO_ACCOUNT_SID}
+      TWILIO_AUTH_TOKEN: ${TWILIO_AUTH_TOKEN}
+      TWILIO_WHATSAPP_NUMBER: ${TWILIO_WHATSAPP_NUMBER}

@@ -38,4 +38,14 @@ build/
 # Configuração sensível do Twilio
 src/main/resources/application-twilio.properties
 
+# Arquivo de variáveis de ambiente
+.env
+.env.*
+
+# Mac
+.DS_Store
+
+
+
+
 

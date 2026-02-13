@@ -1,4 +1,7 @@
-package br.com.fiap.mschatgateway.domain.model;
+package br.com.fiap.mschatgateway.domain.model.conversation;
+
+import br.com.fiap.mschatgateway.domain.model.pharmacy.Medication;
+import br.com.fiap.mschatgateway.domain.model.pharmacy.MedicationType;
 
 import java.util.List;
 
@@ -10,11 +13,17 @@ public class ConversationState {
     private String state;
     private String city;
     private String neighborhood;
+
     private String medication;
+    private String medicationId;
+    private String historyUuid;
 
     private ChatStep initialFlow;
 
     private List<String> currentOptions;
+
+    private List<MedicationType> medicationTypes;
+    private List<Medication> medications;
 
     public ConversationState(String userId) {
         this.userId = userId;
@@ -65,6 +74,14 @@ public class ConversationState {
         this.medication = medication;
     }
 
+    public String getMedicationId() {
+        return medicationId;
+    }
+
+    public void setMedicationId(String medicationId) {
+        this.medicationId = medicationId;
+    }
+
     public ChatStep getInitialFlow() {
         return initialFlow;
     }
@@ -80,7 +97,33 @@ public class ConversationState {
     public void setCurrentOptions(List<String> currentOptions) {
         this.currentOptions = currentOptions;
     }
+
+    public List<MedicationType> getMedicationTypes() {
+        return medicationTypes;
+    }
+
+    public void setMedicationTypes(List<MedicationType> medicationTypes) {
+        this.medicationTypes = medicationTypes;
+    }
+
+    public List<Medication> getMedications() {
+        return medications;
+    }
+
+    public void setMedications(List<Medication> medications) {
+        this.medications = medications;
+    }
+
+    public String getHistoryUuid() {
+        return historyUuid;
+    }
+
+    public void setHistoryUuid(String historyUuid) {
+        this.historyUuid = historyUuid;
+    }
+
 }
+
 
 
 

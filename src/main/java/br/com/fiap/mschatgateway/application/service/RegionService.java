@@ -1,6 +1,6 @@
 package br.com.fiap.mschatgateway.application.service;
 
-import br.com.fiap.mschatgateway.domain.model.PharmacyRegion;
+import br.com.fiap.mschatgateway.domain.model.region.PharmacyRegion;
 import br.com.fiap.mschatgateway.infrastructure.data.PharmacyRegionLoader;
 import org.springframework.stereotype.Service;
 

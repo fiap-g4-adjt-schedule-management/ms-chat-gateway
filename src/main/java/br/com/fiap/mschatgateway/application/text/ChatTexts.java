@@ -31,7 +31,7 @@ public final class ChatTexts {
     public static final String FOUND_PHARMACIES_FOR_MEDICATION = """
     Encontramos farmácias credenciadas na sua região.
 
-    Agora vamos escolher o medicamento.
+    Agora vamos escolher o medicamento:
     """;
 
     public static final String SELECT_CITY = """
@@ -40,6 +40,11 @@ public final class ChatTexts {
 
     public static final String SELECT_NEIGHBORHOOD = """
     Por último, selecione o Bairro:
+    """;
+
+    public static final String FOUND_PHARMACIES = """
+    Farmácias credenciadas encontradas:
+    
     """;
 
     public static final String NO_PHARMACIES_FOUND = """
@@ -64,6 +69,30 @@ public final class ChatTexts {
     Consegui te ajudar hoje?
     """;
 
+    public static final String MEDICATION_RESULT_HEADER = """
+     Resultado da busca por %s:
+     
+     """;
+
+    public static final String STOCK_NOT_CONFIRMED = """
+    ⚠️ Disponibilidade do medicamento não confirmada no sistema
+    Recomendamos verificar diretamente na farmácia.
+    """;
+
+    public static final String ASK_VIEW_OTHER_PHARMACIES = """
+    Existem outras farmácias credenciadas na região,
+    porém não temos confirmação de disponibilidade para este medicamento
+    É recomendado verificar diretamente com a farmácia.
+
+    Deseja visualizá-las?
+    """;
+
+    public static final String NO_CONFIRMED_STOCK = """
+    ❌ No momento não temos confirmação de disponibilidade para %s
+    nas farmácias da região.
+
+    """;
+
     public static final String ABOUT_PROGRAM = """
     📋 Sobre o Farmácia Popular
 
@@ -78,9 +107,22 @@ public final class ChatTexts {
     """;
 
     public static final String END = """
-    Obrigado por utilizar o Meu Remédio Popular!
+    Obrigado por utilizar o Meu Remédio Popular.
+
+    Lembre-se de que, para a retirada do medicamento em uma farmácia credenciada,
+    é obrigatória a apresentação de:
+    • Documento oficial com foto
+    • Número do CPF
+    • Receita médica válida dentro do prazo estabelecido
 
     Até a próxima! 👋
+    """;
+
+
+    public static final String RESULT_FEEDBACK = """
+    Obrigado pelo Feedback!
+
+    Posso ajudár com mais alguma coisa?
     """;
 
     public static final String BACK_TO_MENU = """
