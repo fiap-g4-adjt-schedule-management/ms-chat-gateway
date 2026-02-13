@@ -85,22 +85,22 @@ docker compose up -d
 
 Você pode forçar profiles manualmente:
 
-# Usar mock local (sem api de farmácias e sem Twilio)
+Usar mock local (sem api de farmácias e sem Twilio)
 ```bash
 SPRING_PROFILES_ACTIVE=local docker compose up
 ```
 
-# Usar api de farmácias
+Usar api de farmácias
 ```bash
 SPRING_PROFILES_ACTIVE=backend docker compose up
 ```
 
-# Usar apenas Twilio
+Usar apenas Twilio
 ```bash
 SPRING_PROFILES_ACTIVE=twilio docker compose up
 ```
 
-# Usar API Farmácias + Twilio (produção / integração completa)
+Usar API Farmácias + Twilio (produção / integração completa)
 ```bash
 SPRING_PROFILES_ACTIVE=backend,twilio docker compose up
 ```
