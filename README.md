@@ -1,6 +1,6 @@
 # 📲 ms-chat-gateway
 
-Microserviço responsável por orquestrar conversas via WhatsApp utilizando arquitetura Hexagonal (Ports & Adapters).
+Microserviço BFF responsável por orquestrar conversas via WhatsApp utilizando arquitetura Hexagonal (Ports & Adapters).
 
 
 ---
