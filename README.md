@@ -1,6 +1,6 @@
 # 📲 ms-chat-gateway
 
-Microserviço responsável por orquestrar conversas via WhatsApp utilizando arquitetura Hexagonal (Ports & Adapters).
+Microserviço BFF responsável por orquestrar conversas via WhatsApp utilizando arquitetura Hexagonal (Ports & Adapters).
 
 
 ---
@@ -85,22 +85,22 @@ docker compose up -d
 
 Você pode forçar profiles manualmente:
 
-# Usar mock local (sem api de farmácias e sem Twilio)
+Usar mock local (sem api de farmácias e sem Twilio)
 ```bash
 SPRING_PROFILES_ACTIVE=local docker compose up
 ```
 
-# Usar api de farmácias
+Usar api de farmácias
 ```bash
 SPRING_PROFILES_ACTIVE=backend docker compose up
 ```
 
-# Usar apenas Twilio
+Usar apenas Twilio
 ```bash
 SPRING_PROFILES_ACTIVE=twilio docker compose up
 ```
 
-# Usar API Farmácias + Twilio (produção / integração completa)
+Usar API Farmácias + Twilio (produção / integração completa)
 ```bash
 SPRING_PROFILES_ACTIVE=backend,twilio docker compose up
 ```
@@ -216,6 +216,21 @@ Para testar apenas fluxo interno:
 ```bash
 SPRING_PROFILES_ACTIVE=local docker compose up
 ```
+
+Simular mensagem inicial
+
+curl -X POST http://localhost:8080/webhook/whatsapp \
+  -H "Content-Type: application/x-www-form-urlencoded" \
+  -d "From=whatsapp:+5511999999999" \
+  -d "Body=Olá"
+
+
+Simular escolha do menu
+
+curl -X POST http://localhost:8080/webhook/whatsapp \
+  -H "Content-Type: application/x-www-form-urlencoded" \
+  -d "From=whatsapp:+5511999999999" \
+  -d "Body=1"
 
 Nesse modo:
 
