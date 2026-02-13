@@ -52,29 +52,17 @@ public class MockPharmacyServiceAdapter implements PharmacyServicePort {
             String neighborhood,
             String medicationId
     ) {
-
         return List.of(
                 new PharmacyStock(
                         "RAIA DROGASIL S/A",
                         "Av. Cassandoca, 84",
-                        "Baixa",
-                        "UUID-123456"
+                        "HIGH"
                 ),
                 new PharmacyStock(
                         "DROGARIA SÃO PAULO",
                         "Rua Julio de Castilho, 950",
-                        "Alta",
-                        "UUID-123456"
+                        "CRITICAL"
                 )
         );
     }
-
-    @Override
-    public void updateFeedback(String historyUuid, boolean flagFeedback) {
-        System.out.println("Mock feedback enviado:");
-        System.out.println("UUID: " + historyUuid);
-        System.out.println("Flag: " + flagFeedback);
-    }
 }
-
-

@@ -5,16 +5,13 @@ public class PharmacyStock {
     private final String pharmacyName;
     private final String address;
     private final String availability;
-    private final String historyUuid;
 
     public PharmacyStock(String pharmacyName,
                          String address,
-                         String availability,
-                         String historyUuid) {
+                         String availability) {
         this.pharmacyName = pharmacyName;
         this.address = address;
         this.availability = availability;
-        this.historyUuid = historyUuid;
     }
 
     public String getPharmacyName() {
@@ -29,9 +26,6 @@ public class PharmacyStock {
         return availability;
     }
 
-    public String getHistoryUuid() {
-        return historyUuid;
-    }
 }
 
 

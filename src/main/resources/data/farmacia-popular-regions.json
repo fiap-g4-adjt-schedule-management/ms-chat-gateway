@@ -1,945 +1,5 @@
 [
   {
-    "state": "AC",
-    "city": "BRASILEIA",
-    "neighborhood": "BOTEQUINS"
-  },
-  {
-    "state": "AC",
-    "city": "BRASILEIA",
-    "neighborhood": "TRES BOTEQUINS"
-  },
-  {
-    "state": "AC",
-    "city": "CRUZEIRO DO SUL",
-    "neighborhood": "BAIXA"
-  },
-  {
-    "state": "AC",
-    "city": "CRUZEIRO DO SUL",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AC",
-    "city": "EPITACIOLANDIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AC",
-    "city": "EPITACIOLANDIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AC",
-    "city": "MANCIO LIMA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AC",
-    "city": "PLACIDO DE CASTRO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AC",
-    "city": "PORTO ACRE",
-    "neighborhood": "VILA DO INCRA"
-  },
-  {
-    "state": "AC",
-    "city": "RIO BRANCO",
-    "neighborhood": "AEROPORTO VELHO"
-  },
-  {
-    "state": "AC",
-    "city": "RIO BRANCO",
-    "neighborhood": "ESTACAO EXPERIMENTAL"
-  },
-  {
-    "state": "AC",
-    "city": "RIO BRANCO",
-    "neighborhood": "ESTACAO EXPERIMENTAL"
-  },
-  {
-    "state": "AC",
-    "city": "RIO BRANCO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AC",
-    "city": "RIO BRANCO",
-    "neighborhood": "BOSQUE"
-  },
-  {
-    "state": "AC",
-    "city": "RIO BRANCO",
-    "neighborhood": "CERAMICA"
-  },
-  {
-    "state": "AC",
-    "city": "RODRIGUES ALVES",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AC",
-    "city": "SENA MADUREIRA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AC",
-    "city": "SENA MADUREIRA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AC",
-    "city": "SENADOR GUIOMARD",
-    "neighborhood": "COHAB"
-  },
-  {
-    "state": "AM",
-    "city": "APUI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AM",
-    "city": "BOA VISTA DO RAMOS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AM",
-    "city": "BOCA DO ACRE",
-    "neighborhood": "PLATO DO PIQUIA"
-  },
-  {
-    "state": "AM",
-    "city": "BOCA DO ACRE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AM",
-    "city": "CARAUARI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AM",
-    "city": "EIRUNEPE",
-    "neighborhood": "NOSSA SENHORA DE FATIMA"
-  },
-  {
-    "state": "AM",
-    "city": "ENVIRA",
-    "neighborhood": "NOVA ESPERANCA"
-  },
-  {
-    "state": "AM",
-    "city": "ENVIRA",
-    "neighborhood": "NOVA ESPERANCA"
-  },
-  {
-    "state": "AM",
-    "city": "ENVIRA",
-    "neighborhood": "SANTA RITA"
-  },
-  {
-    "state": "AM",
-    "city": "FONTE BOA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "AM",
-    "city": "FONTE BOA",
-    "neighborhood": "CIDADE NOVA"
-  },
-  {
-    "state": "AM",
-    "city": "HUMAITA",
-    "neighborhood": "SAO PEDRO"
-  },
-  {
-    "state": "AM",
-    "city": "HUMAITA",
-    "neighborhood": "REALIDADE"
-  },
-  {
-    "state": "AM",
-    "city": "IRANDUBA",
-    "neighborhood": "ALTO"
-  },
-  {
-    "state": "AM",
-    "city": "ITACOATIARA",
-    "neighborhood": "IRACY"
-  },
-  {
-    "state": "BA",
-    "city": "ABAIRA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "ABARE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "ACAJUTIBA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "ACAJUTIBA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "ADUSTINA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "AGUA FRIA",
-    "neighborhood": "BARRA"
-  },
-  {
-    "state": "BA",
-    "city": "AGUA FRIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "AIQUARA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "ALAGOINHAS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "ALAGOINHAS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "ALAGOINHAS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "ALAGOINHAS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "ALAGOINHAS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "ALAGOINHAS",
-    "neighborhood": "SANTA TEREZINHA"
-  },
-  {
-    "state": "BA",
-    "city": "ALCOBACA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "AMARGOSA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "AMARGOSA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "BA",
-    "city": "AMELIA RODRIGUES",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "ABREU E LIMA",
-    "neighborhood": "CAETES I"
-  },
-  {
-    "state": "PE",
-    "city": "ABREU E LIMA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "ABREU E LIMA",
-    "neighborhood": "JARDIM CAETES"
-  },
-  {
-    "state": "PE",
-    "city": "ABREU E LIMA",
-    "neighborhood": "ALTO DA BELA VISTA"
-  },
-  {
-    "state": "PE",
-    "city": "AFOGADOS DA INGAZEIRA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "AFOGADOS DA INGAZEIRA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "AFRANIO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "AGRESTINA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "AGRESTINA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "AGRESTINA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "AGUA PRETA",
-    "neighborhood": "COHAB"
-  },
-  {
-    "state": "PE",
-    "city": "AGUA PRETA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "AGUAS BELAS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "AGUAS BELAS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "ALAGOINHA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "ALIANCA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "ALIANCA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "ALTINHO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "AMARAJI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "AMARAJI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PE",
-    "city": "AMARAJI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "SANTA MARIA"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "SANTA MARIA"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "SANTA MARIA"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "SANTA MARIA"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "SANTA MARIA"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "CRUZEIRO VELHO"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "CRUZEIRO VELHO"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "PARANOA"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "PARANOA"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "PARANOA"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "PARANOA"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "PARANOA"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "SOBRADINHO"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "SOBRADINHO"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "SOBRADINHO"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "SOBRADINHO"
-  },
-  {
-    "state": "DF",
-    "city": "BRASILIA",
-    "neighborhood": "SOBRADINHO"
-  },
-  {
-    "state": "GO",
-    "city": "ABADIA DE GOIAS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ABADIA DE GOIAS",
-    "neighborhood": "SETOR NOVA ABADIA"
-  },
-  {
-    "state": "GO",
-    "city": "ABADIA DE GOIAS",
-    "neighborhood": "VILA NOSSA SENHORA DA GUIA"
-  },
-  {
-    "state": "GO",
-    "city": "ABADIANIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ABADIANIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ABADIANIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ABADIANIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ABADIANIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ABADIANIA",
-    "neighborhood": "PLANALMIRA"
-  },
-  {
-    "state": "GO",
-    "city": "ACREUNA",
-    "neighborhood": "SETOR CENTRAL"
-  },
-  {
-    "state": "GO",
-    "city": "ACREUNA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ACREUNA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ACREUNA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ACREUNA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ADELANDIA",
-    "neighborhood": "SETOR CENTRAL"
-  },
-  {
-    "state": "GO",
-    "city": "ADELANDIA",
-    "neighborhood": "JARDIM PROGRESSO"
-  },
-  {
-    "state": "GO",
-    "city": "AGUA FRIA DE GOIAS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "AGUA LIMPA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "RESIDENCIAL PORTAL DA BARRAGEM"
-  },
-  {
-    "state": "GO",
-    "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "RESIDENCIAL PORTAL DA BARRAGEM"
-  },
-  {
-    "state": "GO",
-    "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "RESIDENCIAL PORTAL DA BARRAGEM"
-  },
-  {
-    "state": "GO",
-    "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "JARDIM DA BARRAGEM V"
-  },
-  {
-    "state": "GO",
-    "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "JARDIM DA BARRAGEM V"
-  },
-  {
-    "state": "GO",
-    "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "JARDIM DA BARRAGEM V"
-  },
-  {
-    "state": "GO",
-    "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "JARDIM DA BARRAGEM II"
-  },
-  {
-    "state": "GO",
-    "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "JARDIM DA BARRAGEM II"
-  },
-  {
-    "state": "GO",
-    "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "PARQUE DA BARRAGEM SETOR 08"
-  },
-  {
-    "state": "GO",
-    "city": "AGUAS LINDAS DE GOIAS",
-    "neighborhood": "JARDIM PEROLA II"
-  },
-  {
-    "state": "GO",
-    "city": "ALEXANIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ALEXANIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ALEXANIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ALEXANIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ALEXANIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ALEXANIA",
-    "neighborhood": "LOTEAMENTO ALEXANIA"
-  },
-  {
-    "state": "GO",
-    "city": "ALEXANIA",
-    "neighborhood": "SETOR NORTE II"
-  },
-  {
-    "state": "GO",
-    "city": "ALEXANIA",
-    "neighborhood": "SETOR CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ALOANDIA",
-    "neighborhood": "SETOR CENTRAL"
-  },
-  {
-    "state": "GO",
-    "city": "ALOANDIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "GO",
-    "city": "ALTO HORIZONTE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "RECREIO DOS BANDEIRANTES"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "RECREIO DOS BANDEIRANTES"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "RECREIO DOS BANDEIRANTES"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "RECREIO DOS BANDEIRANTES"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "RECREIO DOS BANDEIRANTES"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "BANGU"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "BANGU"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "BANGU"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "BANGU"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "BANGU"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "SANTA CRUZ"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "SANTA CRUZ"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "SANTA CRUZ"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "SANTA CRUZ"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "SANTA CRUZ"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "PENHA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "PENHA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "PENHA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "PENHA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "PENHA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "CAMPO GRANDE"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "CAMPO GRANDE"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "CAMPO GRANDE"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "CAMPO GRANDE"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "CAMPO GRANDE"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "REALENGO"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "REALENGO"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "REALENGO"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "REALENGO"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "REALENGO"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "PIEDADE"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "PIEDADE"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "PIEDADE"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "PIEDADE"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "PIEDADE"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "BARRA DA TIJUCA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "BARRA DA TIJUCA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "BARRA DA TIJUCA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "BARRA DA TIJUCA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "BARRA DA TIJUCA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "TAQUARA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "TAQUARA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "TAQUARA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "TAQUARA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "TAQUARA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "JARDIM AMERICA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "JARDIM AMERICA"
-  },
-  {
-    "state": "RJ",
-    "city": "RIO DE JANEIRO",
-    "neighborhood": "JARDIM AMERICA"
-  },
-  {
-    "state": "RJ",
-    "city": "ANGRA DOS REIS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "ANGRA DOS REIS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "ANGRA DOS REIS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "ANGRA DOS REIS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "ANGRA DOS REIS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "ANGRA DOS REIS",
-    "neighborhood": "ANGRA"
-  },
-  {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
     "neighborhood": "ANGRA"
@@ -952,12 +12,7 @@
   {
     "state": "RJ",
     "city": "ANGRA DOS REIS",
-    "neighborhood": "PARQUE MAMBUCABA (MAMBUCABA)"
-  },
-  {
-    "state": "RJ",
-    "city": "ANGRA DOS REIS",
-    "neighborhood": "PARQUE MAMBUCABA (MAMBUCABA)"
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
@@ -966,62 +21,12 @@
   },
   {
     "state": "RJ",
-    "city": "APERIBE",
-    "neighborhood": "CENTRO"
+    "city": "ANGRA DOS REIS",
+    "neighborhood": "PARQUE MAMBUCABA (MAMBUCABA)"
   },
   {
     "state": "RJ",
     "city": "APERIBE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "APERIBE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "APERIBE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "ARARUAMA",
-    "neighborhood": "IGUABINHA"
-  },
-  {
-    "state": "RJ",
-    "city": "ARARUAMA",
-    "neighborhood": "IGUABINHA"
-  },
-  {
-    "state": "RJ",
-    "city": "ARARUAMA",
-    "neighborhood": "CENTRO (SAO VICENTE)"
-  },
-  {
-    "state": "RJ",
-    "city": "ARARUAMA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "ARARUAMA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "ARARUAMA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "ARARUAMA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "ARARUAMA",
     "neighborhood": "CENTRO"
   },
   {
@@ -1032,16 +37,31 @@
   {
     "state": "RJ",
     "city": "ARARUAMA",
+    "neighborhood": "CENTRO"
+  },
+  {
+    "state": "RJ",
+    "city": "ARARUAMA",
+    "neighborhood": "CENTRO (SAO VICENTE)"
+  },
+  {
+    "state": "RJ",
+    "city": "ARARUAMA",
     "neighborhood": "COQUEIRAL"
   },
   {
     "state": "RJ",
+    "city": "ARARUAMA",
+    "neighborhood": "IGUABINHA"
+  },
+  {
+    "state": "RJ",
     "city": "AREAL",
     "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
-    "city": "AREAL",
+    "city": "ARMACAO DOS BUZIOS",
     "neighborhood": "CENTRO"
   },
   {
@@ -1052,62 +72,27 @@
   {
     "state": "RJ",
     "city": "ARMACAO DOS BUZIOS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "ARMACAO DOS BUZIOS",
     "neighborhood": "MANGUINHOS"
   },
   {
     "state": "RJ",
     "city": "ARRAIAL DO CABO",
+    "neighborhood": "CENTRO"
+  },
+  {
+    "state": "RJ",
+    "city": "ARRAIAL DO CABO",
     "neighborhood": "PRAIA GRANDE"
-  },
-  {
-    "state": "RJ",
-    "city": "ARRAIAL DO CABO",
-    "neighborhood": "PRAIA GRANDE"
-  },
-  {
-    "state": "RJ",
-    "city": "ARRAIAL DO CABO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "ARRAIAL DO CABO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "BARRA DO PIRAI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "BARRA DO PIRAI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "BARRA DO PIRAI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "BARRA DO PIRAI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "BARRA DO PIRAI",
-    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
     "city": "BARRA DO PIRAI",
     "neighborhood": "CALIFORNIA DA BARRA"
+  },
+  {
+    "state": "RJ",
+    "city": "BARRA DO PIRAI",
+    "neighborhood": "CENTRO"
   },
   {
     "state": "RJ",
@@ -1122,42 +107,7 @@
   {
     "state": "RJ",
     "city": "BARRA MANSA",
-    "neighborhood": "NOVE DE ABRIL"
-  },
-  {
-    "state": "RJ",
-    "city": "BARRA MANSA",
     "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "BARRA MANSA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "BARRA MANSA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "BARRA MANSA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "BARRA MANSA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RJ",
-    "city": "BARRA MANSA",
-    "neighborhood": "VISTA ALEGRE"
-  },
-  {
-    "state": "RJ",
-    "city": "BARRA MANSA",
-    "neighborhood": "VISTA ALEGRE"
   },
   {
     "state": "RJ",
@@ -1166,18 +116,13 @@
   },
   {
     "state": "RJ",
-    "city": "BELFORD ROXO",
-    "neighborhood": "HELIOPOLIS"
+    "city": "BARRA MANSA",
+    "neighborhood": "NOVE DE ABRIL"
   },
   {
     "state": "RJ",
-    "city": "BELFORD ROXO",
-    "neighborhood": "HELIOPOLIS"
-  },
-  {
-    "state": "RJ",
-    "city": "BELFORD ROXO",
-    "neighborhood": "HELIOPOLIS"
+    "city": "BARRA MANSA",
+    "neighborhood": "VISTA ALEGRE"
   },
   {
     "state": "RJ",
@@ -1187,12 +132,17 @@
   {
     "state": "RJ",
     "city": "BELFORD ROXO",
-    "neighborhood": "PARQUE SAO VICENTE"
+    "neighborhood": "HELIOPOLIS"
   },
   {
     "state": "RJ",
     "city": "BELFORD ROXO",
     "neighborhood": "PARQUE SAO VICENTE"
+  },
+  {
+    "state": "RJ",
+    "city": "BELFORD ROXO",
+    "neighborhood": "PARQUE SÃO JOSE"
   },
   {
     "state": "RJ",
@@ -1201,243 +151,53 @@
   },
   {
     "state": "RJ",
-    "city": "BELFORD ROXO",
-    "neighborhood": "PARQUE SÃO JOSE"
+    "city": "RIO DE JANEIRO",
+    "neighborhood": "BANGU"
   },
   {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "MOOCA"
+    "state": "RJ",
+    "city": "RIO DE JANEIRO",
+    "neighborhood": "BARRA DA TIJUCA"
   },
   {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "MOOCA"
+    "state": "RJ",
+    "city": "RIO DE JANEIRO",
+    "neighborhood": "CAMPO GRANDE"
   },
   {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "MOOCA"
+    "state": "RJ",
+    "city": "RIO DE JANEIRO",
+    "neighborhood": "JARDIM AMERICA"
   },
   {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "MOOCA"
+    "state": "RJ",
+    "city": "RIO DE JANEIRO",
+    "neighborhood": "PENHA"
   },
   {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "MOOCA"
+    "state": "RJ",
+    "city": "RIO DE JANEIRO",
+    "neighborhood": "PIEDADE"
   },
   {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "MOOCA"
+    "state": "RJ",
+    "city": "RIO DE JANEIRO",
+    "neighborhood": "REALENGO"
   },
   {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "MOOCA"
+    "state": "RJ",
+    "city": "RIO DE JANEIRO",
+    "neighborhood": "RECREIO DOS BANDEIRANTES"
   },
   {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "MOOCA"
+    "state": "RJ",
+    "city": "RIO DE JANEIRO",
+    "neighborhood": "SANTA CRUZ"
   },
   {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "MOOCA"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CASA VERDE"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CASA VERDE"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CASA VERDE"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CASA VERDE"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "JARDIM ROSINHA"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "VILA FANTON"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "VILA RE"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "VILA RE"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "JARDIM RODOLFO PIRANI"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "JARDIM RODOLFO PIRANI"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "JARDIM RODOLFO PIRANI"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "VILA ESPERANCA"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CAMBUCI"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "PACAEMBU"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "PACAEMBU"
-  },
-  {
-    "state": "SP",
-    "city": "SAO PAULO",
-    "neighborhood": "PACAEMBU"
-  },
-  {
-    "state": "SP",
-    "city": "ADAMANTINA",
-    "neighborhood": "VILA JARDIM"
-  },
-  {
-    "state": "SP",
-    "city": "ADAMANTINA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "ADAMANTINA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "ADAMANTINA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "ADAMANTINA",
-    "neighborhood": "CENTRO"
+    "state": "RJ",
+    "city": "RIO DE JANEIRO",
+    "neighborhood": "TAQUARA"
   },
   {
     "state": "SP",
@@ -1456,27 +216,12 @@
   },
   {
     "state": "SP",
-    "city": "ADOLFO",
-    "neighborhood": "CENTRO"
+    "city": "ADAMANTINA",
+    "neighborhood": "VILA JARDIM"
   },
   {
     "state": "SP",
     "city": "ADOLFO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "AGUAI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "AGUAI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "AGUAI",
     "neighborhood": "CENTRO"
   },
   {
@@ -1497,11 +242,6 @@
   {
     "state": "SP",
     "city": "AGUAS DE LINDOIA",
-    "neighborhood": "PIMENTEIS"
-  },
-  {
-    "state": "SP",
-    "city": "AGUAS DE LINDOIA",
     "neighborhood": "BELA VISTA"
   },
   {
@@ -1512,7 +252,7 @@
   {
     "state": "SP",
     "city": "AGUAS DE LINDOIA",
-    "neighborhood": "CENTRO"
+    "neighborhood": "PIMENTEIS"
   },
   {
     "state": "SP",
@@ -1532,37 +272,12 @@
   {
     "state": "SP",
     "city": "AGUDOS",
-    "neighborhood": "CENTRO"
+    "neighborhood": "CENTENARIO PARQUE"
   },
   {
     "state": "SP",
     "city": "AGUDOS",
     "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "AGUDOS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "AGUDOS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "AGUDOS",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "SP",
-    "city": "AGUDOS",
-    "neighborhood": "VILA SANTA CECILIA"
-  },
-  {
-    "state": "SP",
-    "city": "AGUDOS",
-    "neighborhood": "PARQUE PAMPULHA"
   },
   {
     "state": "SP",
@@ -1572,7 +287,12 @@
   {
     "state": "SP",
     "city": "AGUDOS",
-    "neighborhood": "CENTENARIO PARQUE"
+    "neighborhood": "PARQUE PAMPULHA"
+  },
+  {
+    "state": "SP",
+    "city": "AGUDOS",
+    "neighborhood": "VILA SANTA CECILIA"
   },
   {
     "state": "SP",
@@ -1585,298 +305,58 @@
     "neighborhood": "TATETU"
   },
   {
-    "state": "PR",
-    "city": "ABATIA",
+    "state": "SP",
+    "city": "SAO PAULO",
+    "neighborhood": "BRAS"
+  },
+  {
+    "state": "SP",
+    "city": "SAO PAULO",
+    "neighborhood": "CAMBUCI"
+  },
+  {
+    "state": "SP",
+    "city": "SAO PAULO",
+    "neighborhood": "CASA VERDE"
+  },
+  {
+    "state": "SP",
+    "city": "SAO PAULO",
     "neighborhood": "CENTRO"
   },
   {
-    "state": "PR",
-    "city": "ABATIA",
-    "neighborhood": "CENTRO"
+    "state": "SP",
+    "city": "SAO PAULO",
+    "neighborhood": "JARDIM RODOLFO PIRANI"
   },
   {
-    "state": "PR",
-    "city": "AGUDOS DO SUL",
-    "neighborhood": "CENTRO"
+    "state": "SP",
+    "city": "SAO PAULO",
+    "neighborhood": "JARDIM ROSINHA"
   },
   {
-    "state": "PR",
-    "city": "AGUDOS DO SUL",
-    "neighborhood": "CENTRO"
+    "state": "SP",
+    "city": "SAO PAULO",
+    "neighborhood": "MOOCA"
   },
   {
-    "state": "PR",
-    "city": "ALMIRANTE TAMANDARE",
-    "neighborhood": "JD ARCO IRIS"
+    "state": "SP",
+    "city": "SAO PAULO",
+    "neighborhood": "PACAEMBU"
   },
   {
-    "state": "PR",
-    "city": "ALMIRANTE TAMANDARE",
-    "neighborhood": "VILA SANTA TEREZINHA"
+    "state": "SP",
+    "city": "SAO PAULO",
+    "neighborhood": "VILA ESPERANCA"
   },
   {
-    "state": "PR",
-    "city": "ALMIRANTE TAMANDARE",
-    "neighborhood": "VILA SANTA TEREZINHA"
+    "state": "SP",
+    "city": "SAO PAULO",
+    "neighborhood": "VILA FANTON"
   },
   {
-    "state": "PR",
-    "city": "ALMIRANTE TAMANDARE",
-    "neighborhood": "VILA ALTO PINHEIROS"
-  },
-  {
-    "state": "PR",
-    "city": "ALMIRANTE TAMANDARE",
-    "neighborhood": "CACHOEIRA"
-  },
-  {
-    "state": "PR",
-    "city": "ALMIRANTE TAMANDARE",
-    "neighborhood": "JARDIM VALMA"
-  },
-  {
-    "state": "PR",
-    "city": "ALTAMIRA DO PARANA",
-    "neighborhood": 0
-  },
-  {
-    "state": "PR",
-    "city": "ALTO PARAISO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTO PARANA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTO PARANA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTO PARANA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTO PARANA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTO PARANA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTO PIQUIRI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTO PIQUIRI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTO PIQUIRI",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTO PIQUIRI",
-    "neighborhood": "SEDE"
-  },
-  {
-    "state": "PR",
-    "city": "ALTONIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTONIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTONIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTONIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTONIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALTONIA",
-    "neighborhood": "JARDIM PANORAMA"
-  },
-  {
-    "state": "PR",
-    "city": "ALVORADA DO SUL",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALVORADA DO SUL",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALVORADA DO SUL",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALVORADA DO SUL",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "ALVORADA DO SUL",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "AMAPORA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "PR",
-    "city": "AMAPORA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "AGUA SANTA",
-    "neighborhood": "AGUA SANTA"
-  },
-  {
-    "state": "RS",
-    "city": "AGUA SANTA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "AGUDO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "AGUDO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "AGUDO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "AGUDO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "AGUDO",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "AJURICABA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "AJURICABA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "ALECRIM",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "ALEGRETE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "ALEGRETE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "ALEGRETE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "ALEGRETE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "ALEGRETE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "ALEGRETE",
-    "neighborhood": "LARA"
-  },
-  {
-    "state": "RS",
-    "city": "ALEGRETE",
-    "neighborhood": "IBIRAPUITA"
-  },
-  {
-    "state": "RS",
-    "city": "ALEGRETE",
-    "neighborhood": "VILA NOVA"
-  },
-  {
-    "state": "RS",
-    "city": "ALEGRETE",
-    "neighborhood": "IBIRAPUITAN"
-  },
-  {
-    "state": "RS",
-    "city": "ALEGRIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "ALEGRIA",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "ALMIRANTE TAMANDARE DO SUL",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "ALPESTRE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "ALTO ALEGRE",
-    "neighborhood": "CENTRO"
-  },
-  {
-    "state": "RS",
-    "city": "ALTO FELIZ",
-    "neighborhood": "CENTRO"
+    "state": "SP",
+    "city": "SAO PAULO",
+    "neighborhood": "VILA RE"
   }
 ]

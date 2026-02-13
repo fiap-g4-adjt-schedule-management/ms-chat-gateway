@@ -136,7 +136,7 @@ public class ConversationRouterService {
 
         else if (selected.startsWith("Sobre")) {
             messagePort.sendText(state.getUserId(), ChatTexts.ABOUT_PROGRAM);
-            askFeedback(state);
+            askEnd(state);
             return;
         }
 
@@ -224,7 +224,18 @@ public class ConversationRouterService {
                 state.getNeighborhood()
         );
 
-        if (pharmacies == null || pharmacies.isEmpty()) {
+        if (pharmacies == null) {
+            pharmacies = List.of();
+        }
+
+        pharmacies = pharmacies.stream()
+                .filter(p -> p.getName() != null && p.getAddress() != null)
+                .toList();
+
+        int resultCount = pharmacies.size();
+        state.setResultCount(resultCount);
+
+        if (resultCount == 0) {
 
             messagePort.sendText(state.getUserId(), ChatTexts.NO_PHARMACIES_FOUND);
 
@@ -258,6 +269,8 @@ public class ConversationRouterService {
         messagePort.sendOptions(state.getUserId(), null, options);
         state.setStep(ChatStep.ASK_SEARCH_MEDICATION);
     }
+
+
 
     private void handleNoPharmacies(ConversationState state, String input) {
 
@@ -414,6 +427,8 @@ public class ConversationRouterService {
             int totalPharmacies
     ) {
 
+        state.setResultCount(confirmedPharmacies.size());
+
         StringBuilder message = new StringBuilder(
                 ChatTexts.MEDICATION_RESULT_HEADER
                         .formatted(state.getMedication())
@@ -421,15 +436,18 @@ public class ConversationRouterService {
 
         for (var stock : confirmedPharmacies) {
 
-            if (state.getHistoryUuid() == null && stock.getHistoryUuid() != null) {
-                state.setHistoryUuid(stock.getHistoryUuid());
-            }
+            String friendlyAvailability = translateAvailability(
+                    stock.getAvailability()
+            );
+
+            if (friendlyAvailability == null) continue;
 
             message.append("\n")
                     .append(stock.getPharmacyName()).append("\n")
                     .append("📍 ").append(stock.getAddress()).append("\n")
-                    .append("Disponibilidade: ")
-                    .append(stock.getAvailability()).append("\n");
+                    .append(friendlyAvailability)
+                    .append("\n");
+
         }
 
         messagePort.sendText(state.getUserId(), message.toString());
@@ -462,14 +480,23 @@ public class ConversationRouterService {
 
     private void handleNoConfirmedStock(ConversationState state) {
 
-        messagePort.sendText(
-                state.getUserId(),
-                ChatTexts.NO_CONFIRMED_STOCK
-                        .formatted(state.getMedication())
-        );
+        if (state.getInitialFlow() == ChatStep.SHOW_PHARMACIES) {
 
-        askViewOtherPharmacies(state);
+            // Fluxo "Encontrar farmácias"
+            messagePort.sendText(
+                    state.getUserId(),
+                    ChatTexts.NO_CONFIRMED_STOCK
+                            .formatted(state.getMedication())
+            );
+
+            askFeedback(state);
+
+        } else {
+            askViewOtherPharmacies(state);
+        }
     }
+
+
 
     private void askViewOtherPharmacies(ConversationState state) {
 
@@ -495,12 +522,6 @@ public class ConversationRouterService {
 
     private void showAllPharmaciesWithStockInfo(ConversationState state) {
 
-        var allPharmacies = pharmacyPort.getPharmacies(
-                state.getState(),
-                state.getCity(),
-                state.getNeighborhood()
-        );
-
         var stockResult = pharmacyPort.getMedicationAvailability(
                 state.getState(),
                 state.getCity(),
@@ -508,42 +529,54 @@ public class ConversationRouterService {
                 state.getMedicationId()
         );
 
+        if (stockResult == null || stockResult.isEmpty()) {
+            handleNoConfirmedStock(state);
+            return;
+        }
+
         StringBuilder message = new StringBuilder();
         message.append(ChatTexts.MEDICATION_RESULT_HEADER
                 .formatted(state.getMedication()));
 
-        for (var pharmacy : allPharmacies) {
+        int countValid = 0;
+
+        for (var stock : stockResult) {
+
+            String friendlyAvailability = translateAvailability(
+                    stock.getAvailability()
+            );
+
+            if (friendlyAvailability == null) continue;
+
+            countValid++;
 
             message.append("\n")
-                    .append(pharmacy.getName()).append("\n")
-                    .append("📍 ").append(pharmacy.getAddress()).append("\n");
+                    .append(stock.getPharmacyName()).append("\n")
+                    .append("📍 ").append(stock.getAddress()).append("\n")
+                    .append(friendlyAvailability)
+                    .append("\n\n");
+        }
 
-            var stock = stockResult.stream()
-                    .filter(s -> s.getPharmacyName()
-                            .equalsIgnoreCase(pharmacy.getName()))
-                    .findFirst();
-
-            if (stock.isPresent()) {
-
-                if (state.getHistoryUuid() == null &&
-                        stock.get().getHistoryUuid() != null) {
-
-                    state.setHistoryUuid(stock.get().getHistoryUuid());
-                }
-
-                message.append("Disponibilidade: ")
-                        .append(stock.get().getAvailability())
-                        .append("\n");
-
-            } else {
-                message.append(ChatTexts.STOCK_NOT_CONFIRMED);
-            }
-
-            message.append("\n");
+        if (countValid == 0) {
+            handleNoConfirmedStock(state);
+            return;
         }
 
         messagePort.sendText(state.getUserId(), message.toString());
         askFeedback(state);
+    }
+
+
+    private String translateAvailability(String availability) {
+
+        if (availability == null) return null;
+
+        return switch (availability.toUpperCase()) {
+            case "CRITICAL" -> "Baixa disponibilidade";
+            case "NORMAL" -> "Disponível na unidade";
+            case "HIGH" -> "Alta disponibilidade";
+            default -> null;
+        };
     }
 
     private void handleAskViewOtherPharmacies(ConversationState state, String input) {
@@ -592,11 +625,10 @@ public class ConversationRouterService {
         Integer idx = parseOptionIndexOrInvalid(state, input, null);
         if (idx == null) return;
 
-        boolean flagFeedback = idx == 0;
-
-        if (state.getHistoryUuid() != null) {
-            pharmacyPort.updateFeedback(state.getHistoryUuid(), flagFeedback);
-        }
+        messagePort.sendText(
+                state.getUserId(),
+                ChatTexts.RESULT_FEEDBACK
+        );
 
         askEnd(state);
     }

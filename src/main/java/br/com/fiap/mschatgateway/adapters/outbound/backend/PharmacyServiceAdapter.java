@@ -1,9 +1,6 @@
 package br.com.fiap.mschatgateway.adapters.outbound.backend;
 
-import br.com.fiap.mschatgateway.adapters.outbound.backend.dto.MedicationResponse;
-import br.com.fiap.mschatgateway.adapters.outbound.backend.dto.MedicationTypeResponse;
-import br.com.fiap.mschatgateway.adapters.outbound.backend.dto.PharmacyMedicationResponse;
-import br.com.fiap.mschatgateway.adapters.outbound.backend.dto.PharmacyResponse;
+import br.com.fiap.mschatgateway.adapters.outbound.backend.dto.*;
 import br.com.fiap.mschatgateway.domain.model.pharmacy.Medication;
 import br.com.fiap.mschatgateway.domain.model.pharmacy.MedicationType;
 import br.com.fiap.mschatgateway.domain.model.pharmacy.PharmacyInfo;
@@ -12,9 +9,10 @@ import br.com.fiap.mschatgateway.domain.ports.outbound.PharmacyServicePort;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;
+import org.springframework.web.reactive.function.client.WebClientResponseException;
+import reactor.core.publisher.Mono;
 
 import java.util.List;
-import java.util.Map;
 
 @Component
 @Profile("backend")
@@ -33,14 +31,19 @@ public class PharmacyServiceAdapter implements PharmacyServicePort {
             String city,
             String neighborhood
     ) {
+
         return webClient.get()
                 .uri(uriBuilder -> uriBuilder
-                        .path("/pharmacys")
+                        .path("/pharmacy")
                         .queryParam("state", state)
                         .queryParam("city", city)
                         .queryParam("neighb", neighborhood)
                         .build())
                 .retrieve()
+                .onStatus(
+                        status -> status.value() == 404,
+                        response -> Mono.empty()
+                )
                 .bodyToFlux(PharmacyResponse.class)
                 .map(response ->
                         new PharmacyInfo(
@@ -76,9 +79,8 @@ public class PharmacyServiceAdapter implements PharmacyServicePort {
 
         return webClient.get()
                 .uri(uriBuilder -> uriBuilder
-                        .path("/medication")
-                        .queryParam("idTypeMed", idTypeMed)
-                        .build())
+                        .path("/medication/{id}")
+                        .build(idTypeMed))
                 .retrieve()
                 .bodyToFlux(MedicationResponse.class)
                 .map(resp ->
@@ -100,38 +102,30 @@ public class PharmacyServiceAdapter implements PharmacyServicePort {
             String medication
     ) {
 
-        return webClient.get()
-                .uri(uriBuilder -> uriBuilder
-                        .path("/medication/{code}/pharmacys")
-                        .queryParam("state", state)
-                        .queryParam("city", city)
-                        .queryParam("neighb", neighborhood)
-                        .build(medication))
-                .retrieve()
-                .bodyToFlux(PharmacyMedicationResponse.class)
-                .map(response ->
-                        new PharmacyStock(
-                                response.getPharmacyUnit().getName(),
-                                response.getPharmacyUnit().getAddress(),
-                                response.getStockStatus(),
-                                null
-                        )
-                )
-                .collectList()
-                .block();
-    }
+        try {
+            return webClient.get()
+                    .uri(uriBuilder -> uriBuilder
+                            .path("/medication/{code}/pharmacys")
+                            .queryParam("state", state)
+                            .queryParam("city", city)
+                            .queryParam("neighb", neighborhood)
+                            .build(medication))
+                    .retrieve()
+                    .bodyToFlux(PharmacyMedicationResponse.class)
+                    .filter(response -> response.getPharmacyUnit() != null)
+                    .map(response ->
+                            new PharmacyStock(
+                                    response.getPharmacyUnit().getName(),
+                                    response.getPharmacyUnit().getAddress(),
+                                    response.getStockStatus()
+                            )
+                    )
+                    .collectList()
+                    .block();
 
-    @Override
-    public void updateFeedback(String historyUuid, boolean flagFeedback) {
-
-        webClient.put()
-                .uri(uriBuilder -> uriBuilder
-                        .path("/feedback/{uuid}")
-                        .build(historyUuid))
-                .bodyValue(Map.of("flagFeedback", flagFeedback))
-                .retrieve()
-                .toBodilessEntity()
-                .block();
+        } catch (WebClientResponseException.NotFound e) {
+            return List.of();
+        }
     }
 }
 

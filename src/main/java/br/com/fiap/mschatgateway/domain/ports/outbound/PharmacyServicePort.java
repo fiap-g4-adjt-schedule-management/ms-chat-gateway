@@ -25,6 +25,5 @@ public interface PharmacyServicePort {
 
     List<Medication> getMedicationsByType(String idTypeMed);
 
-    void updateFeedback(String historyUuid, boolean flagFeedback);
 }
 

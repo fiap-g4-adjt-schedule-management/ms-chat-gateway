@@ -88,9 +88,10 @@ public final class ChatTexts {
     """;
 
     public static final String NO_CONFIRMED_STOCK = """
-    ❌ No momento não temos confirmação de disponibilidade para %s
-    nas farmácias da região.
+    Não encontramos disponibilidade registrada para %s
+    nas farmácias desta região no momento.
 
+    Recomendamos consultar diretamente a farmácia listada na sua região para mais informações.
     """;
 
     public static final String ABOUT_PROGRAM = """

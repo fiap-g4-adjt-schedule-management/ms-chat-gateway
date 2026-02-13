@@ -14,14 +14,18 @@ public class ConversationState {
     private String city;
     private String neighborhood;
 
+    private String medicationType;
     private String medication;
+    private String stockStatus;
+
+    private Integer resultCount;
+    private Boolean flagFeedback;
+
     private String medicationId;
-    private String historyUuid;
 
     private ChatStep initialFlow;
 
     private List<String> currentOptions;
-
     private List<MedicationType> medicationTypes;
     private List<Medication> medications;
 
@@ -66,12 +70,44 @@ public class ConversationState {
         this.neighborhood = neighborhood;
     }
 
+    public String getMedicationType() {
+        return medicationType;
+    }
+
+    public void setMedicationType(String medicationType) {
+        this.medicationType = medicationType;
+    }
+
     public String getMedication() {
         return medication;
     }
 
     public void setMedication(String medication) {
         this.medication = medication;
+    }
+
+    public String getStockStatus() {
+        return stockStatus;
+    }
+
+    public void setStockStatus(String stockStatus) {
+        this.stockStatus = stockStatus;
+    }
+
+    public Integer getResultCount() {
+        return resultCount;
+    }
+
+    public void setResultCount(Integer resultCount) {
+        this.resultCount = resultCount;
+    }
+
+    public Boolean getFlagFeedback() {
+        return flagFeedback;
+    }
+
+    public void setFlagFeedback(Boolean flagFeedback) {
+        this.flagFeedback = flagFeedback;
     }
 
     public String getMedicationId() {
@@ -113,17 +149,4 @@ public class ConversationState {
     public void setMedications(List<Medication> medications) {
         this.medications = medications;
     }
-
-    public String getHistoryUuid() {
-        return historyUuid;
-    }
-
-    public void setHistoryUuid(String historyUuid) {
-        this.historyUuid = historyUuid;
-    }
-
 }
-
-
-
-
