@@ -15,7 +15,7 @@ import reactor.core.publisher.Mono;
 import java.util.List;
 
 @Component
-@Profile("backend")
+@Profile({"backend", "twilio"})
 public class PharmacyServiceAdapter implements PharmacyServicePort {
 
     private final WebClient webClient;
